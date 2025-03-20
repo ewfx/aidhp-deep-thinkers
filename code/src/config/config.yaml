@@ -1,0 +1,12 @@
+data_sources:
+    customers: "data/customers.csv"
+    transactions: "data/transactions.csv"
+    sentiments: "data/sentiments.csv"
+    organizations: "data/organizations.csv"
+
+database:
+    host: "localhost"
+    port: 5432
+    user: "postgres"
+    password: "postgres"
+    name: "genai_db"
