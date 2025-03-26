@@ -1,0 +1,3 @@
+user_id,item_title,method,feedback_type,timestamp
+U001,Student Education Loan,Cosine Similarity,dislike,2025-03-23T12:37:17.347534
+U001,Retirement Planning at 30,Cosine Similarity,like,2025-03-23T12:37:24.024572

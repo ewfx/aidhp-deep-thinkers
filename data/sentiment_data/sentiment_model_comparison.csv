@@ -1,0 +1,31 @@
+user_id,text,finbert-tone_label,finbert-tone_confidence,prosus-finbert_label,prosus-finbert_confidence,amphora-finbert_label,amphora-finbert_confidence
+U001,Looking to explore investment options beyond fixed deposits.,Positive,1.0,negative,0.77,neutral,1.0
+U002,Excited to learn more about crypto and tech funds.,Neutral,0.99,negative,0.85,neutral,0.98
+U003,Looking to explore investment options beyond fixed deposits.,Positive,1.0,negative,0.77,neutral,1.0
+U004,Looking to explore investment options beyond fixed deposits.,Positive,1.0,negative,0.77,neutral,1.0
+U005,Worried about inflation and how to save better.,Negative,1.0,negative,0.79,neutral,0.98
+U006,I'm feeling uncertain about the market lately.,Negative,1.0,neutral,0.6,positive,0.97
+U007,Excited to learn more about crypto and tech funds.,Neutral,0.99,negative,0.85,neutral,0.98
+U008,Excited to learn more about crypto and tech funds.,Neutral,0.99,negative,0.85,neutral,0.98
+U009,Looking to explore investment options beyond fixed deposits.,Positive,1.0,negative,0.77,neutral,1.0
+U010,Looking to explore investment options beyond fixed deposits.,Positive,1.0,negative,0.77,neutral,1.0
+U011,Seeking advice on planning for retirement efficiently.,Neutral,0.72,negative,0.94,neutral,1.0
+U012,Worried about inflation and how to save better.,Negative,1.0,negative,0.79,neutral,0.98
+U013,Seeking advice on planning for retirement efficiently.,Neutral,0.72,negative,0.94,neutral,1.0
+U014,Seeking advice on planning for retirement efficiently.,Neutral,0.72,negative,0.94,neutral,1.0
+U015,Seeking advice on planning for retirement efficiently.,Neutral,0.72,negative,0.94,neutral,1.0
+U016,Excited to learn more about crypto and tech funds.,Neutral,0.99,negative,0.85,neutral,0.98
+U017,Excited to learn more about crypto and tech funds.,Neutral,0.99,negative,0.85,neutral,0.98
+U018,I'm feeling uncertain about the market lately.,Negative,1.0,neutral,0.6,positive,0.97
+U019,I'm feeling uncertain about the market lately.,Negative,1.0,neutral,0.6,positive,0.97
+U020,Looking to explore investment options beyond fixed deposits.,Positive,1.0,negative,0.77,neutral,1.0
+U021,Looking to explore investment options beyond fixed deposits.,Positive,1.0,negative,0.77,neutral,1.0
+U022,Looking to explore investment options beyond fixed deposits.,Positive,1.0,negative,0.77,neutral,1.0
+U023,I'm feeling uncertain about the market lately.,Negative,1.0,neutral,0.6,positive,0.97
+U024,Seeking advice on planning for retirement efficiently.,Neutral,0.72,negative,0.94,neutral,1.0
+U025,Seeking advice on planning for retirement efficiently.,Neutral,0.72,negative,0.94,neutral,1.0
+U026,I'm feeling uncertain about the market lately.,Negative,1.0,neutral,0.6,positive,0.97
+U027,Excited to learn more about crypto and tech funds.,Neutral,0.99,negative,0.85,neutral,0.98
+U028,Seeking advice on planning for retirement efficiently.,Neutral,0.72,negative,0.94,neutral,1.0
+U029,Worried about inflation and how to save better.,Negative,1.0,negative,0.79,neutral,0.98
+U030,Seeking advice on planning for retirement efficiently.,Neutral,0.72,negative,0.94,neutral,1.0

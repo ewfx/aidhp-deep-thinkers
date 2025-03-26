@@ -1,0 +1,29 @@
+item_id,title,description,tags,type
+P001,Premium Travel Credit Card,Credit card with airport lounge access and forex benefits,"travel, premium, credit",product
+P002,Basic Cashback Card,Credit card with 5% cashback on groceries and fuel,"cashback, budget, groceries",product
+P003,Robo-Advisory Portfolio,AI-based investment advisor with risk-managed mutual fund basket,"investment, mutual fund, automated",product
+P004,HNI Wealth Management,Dedicated relationship manager for high net worth individuals,"wealth, HNI, exclusive",product
+P005,Crypto Investment Assistant,Tools and tips for high-risk crypto investors,"crypto, investment, risky",product
+P006,Senior Citizen FD Plan,Fixed deposit plan with extra interest rate for seniors,"fixed deposit, safe, retirement",product
+P007,Startup Business Loan,Flexible collateral-free loan for startups and SMEs,"loan, startup, entrepreneur",product
+P008,Gold Loan,Quick loan against gold with low interest rate,"loan, gold, secured",product
+P009,Student Education Loan,Low-interest education loan for Indian and international students,"education, loan, student",product
+P010,Luxury Lifestyle Credit Card,Invite-only credit card with concierge and luxury rewards,"luxury, travel, credit",product
+P011,Kim-Vega Lifestyle Credit Card, Credit card for high spenders on Kim-Vega,"luxury, merchant, credit",product
+P012,Dining Cashback Card,Earn up to 10% cashback on food & dining spends.,"food, social sharing, budgeting concern",product
+P013,Wealth Management Advisory,Personalized wealth planning with a dedicated advisor.,"financial management, wealth building",product
+P014,Budget Planning Tool,Smart budgeting app to track and control your expenses.,"budgeting concern, debt stress",product
+P015,SIP Mutual Fund Plan,Start investing with as low as ₹500/month in diversified mutual funds.,"savings planning, SIP planning",product
+P016,Risk-Adjusted Portfolio,Invest based on your risk profile and market volatility.,"risk mitigation, market anxiety",product
+P017,Loan Restructuring Support,Get help with restructuring or refinancing your existing loans.,"EMI concern, debt stress",product
+P018,Lifestyle Concierge Service,Exclusive lifestyle management for elite customers.,"luxury, fashion, celebrating",product
+P019,Crypto Risk Education Guide,Understand crypto risks and safe investing strategies.,"crypto investing, risk mitigation",product
+P020,Retirement Calculator Tool,Calculate your retirement corpus needs and build a plan.,"retirement planning, financial literacy",product
+P021,Insurance Comparison Portal,"Compare and buy insurance plans for life, health, travel.","insurance interest, income insecurity",product
+P022,Stock Screener & Tracker,"Analyze, track, and screen your favorite stocks.","stocks investing, product comparison",product
+P023,EMI Optimization App,Optimize your loan EMIs for better cash flow.,"budgeting concern, EMI concern",product
+P024,Crypto Diversification Portfolio,"Curated crypto portfolios across BTC, ETH, and altcoins.","crypto investing, diversification intent",product
+P025,Financial Literacy Blog Series,"Weekly expert blogs on finance, budgeting, investing.","financial literacy, education",product
+P026,Travel Insurance Offers,Affordable travel insurance with COVID-19 coverage.,"travel, insurance interest",product
+P027,Educational Loan Planner,"Plan your education loans with EMIs, interest tracking.","education, savings planning",product
+P028,Fashion Deals Newsletter,Weekly fashion trends and brand offers direct to your inbox.,"fashion, shopping, luxury",product

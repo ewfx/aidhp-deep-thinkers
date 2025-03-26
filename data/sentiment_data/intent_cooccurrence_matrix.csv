@@ -1,0 +1,579 @@
+intent,related_intent,score
+feedback to provider,luxury,0.36
+feedback to provider,product comparison,0.155
+feedback to provider,social sharing,0.863
+feedback to provider,diversification intent,0.263
+feedback to provider,travel,0.16
+feedback to provider,celebrating,0.721
+feedback to provider,motivation,0.382
+feedback to provider,seeking advice,1.0
+feedback to provider,self-improvement,0.192
+feedback to provider,wellness,0.043
+feedback to provider,entertainment,0.449
+feedback to provider,complaining,0.38
+feedback to provider,premium card curiosity,0.139
+feedback to provider,account access issue,0.087
+feedback to provider,transaction dispute,0.204
+feedback to provider,travel card interest,0.021
+feedback to provider,mutual fund interest,0.021
+feedback to provider,fashion,0.032
+feedback to provider,fitness,0.079
+feedback to provider,risk mitigation,0.349
+feedback to provider,food,0.081
+feedback to provider,career growth,0.021
+feedback to provider,EMI concern,0.075
+feedback to provider,financial management,0.176
+feedback to provider,stocks investing,0.123
+feedback to provider,crypto investing,0.064
+feedback to provider,SIP planning,0.032
+feedback to provider,budgeting concern,0.032
+feedback to provider,income insecurity,0.032
+luxury,feedback to provider,0.603
+luxury,product comparison,0.125
+luxury,social sharing,0.902
+luxury,career growth,0.107
+luxury,entertainment,0.751
+luxury,celebrating,1.0
+luxury,fashion,0.268
+luxury,diversification intent,0.241
+luxury,self-improvement,0.089
+luxury,food,0.071
+luxury,seeking advice,0.125
+luxury,premium card curiosity,0.188
+luxury,motivation,0.071
+luxury,travel card interest,0.089
+luxury,mutual fund interest,0.018
+luxury,travel,0.326
+luxury,fitness,0.018
+luxury,risk mitigation,0.036
+luxury,wealth building,0.276
+luxury,wellness,0.036
+luxury,financial management,0.179
+luxury,complaining,0.071
+luxury,crypto investing,0.107
+luxury,credit card interest,0.054
+product comparison,feedback to provider,1.0
+product comparison,luxury,0.483
+product comparison,social sharing,0.621
+product comparison,diversification intent,0.828
+product comparison,food,0.207
+product comparison,celebrating,0.345
+product comparison,fashion,0.207
+product comparison,entertainment,0.345
+product comparison,travel,0.138
+product comparison,motivation,0.069
+product comparison,complaining,0.069
+product comparison,self-improvement,0.069
+product comparison,risk mitigation,0.454
+product comparison,transaction dispute,0.069
+product comparison,wealth building,0.069
+product comparison,insurance interest,0.178
+product comparison,seeking advice,0.545
+product comparison,stocks investing,0.166
+product comparison,premium card curiosity,0.207
+social sharing,feedback to provider,0.807
+social sharing,luxury,0.504
+social sharing,product comparison,0.09
+social sharing,celebrating,1.0
+social sharing,entertainment,0.651
+social sharing,motivation,0.464
+social sharing,diversification intent,0.182
+social sharing,travel,0.186
+social sharing,fashion,0.07
+social sharing,complaining,0.139
+social sharing,food,0.06
+social sharing,fitness,0.01
+social sharing,seeking advice,0.301
+social sharing,self-improvement,0.17
+social sharing,premium card curiosity,0.14
+social sharing,risk mitigation,0.15
+social sharing,account access issue,0.02
+social sharing,education,0.02
+social sharing,mutual fund interest,0.01
+social sharing,career growth,0.02
+social sharing,wellness,0.07
+social sharing,travel card interest,0.01
+social sharing,EMI concern,0.01
+social sharing,financial management,0.01
+social sharing,transaction dispute,0.02
+social sharing,wealth building,0.01
+career growth,entertainment,0.162
+career growth,luxury,0.486
+career growth,celebrating,0.243
+career growth,fashion,0.081
+career growth,risk mitigation,0.081
+career growth,self-improvement,0.972
+career growth,social sharing,0.162
+career growth,diversification intent,1.0
+career growth,motivation,0.405
+career growth,account access issue,0.081
+career growth,feedback to provider,0.162
+career growth,travel,0.648
+career growth,financial management,0.433
+career growth,wealth building,0.486
+career growth,credit card interest,0.243
+career growth,transaction dispute,0.243
+career growth,seeking advice,0.729
+career growth,stocks investing,0.243
+career growth,travel card interest,0.243
+entertainment,career growth,0.026
+entertainment,luxury,0.537
+entertainment,celebrating,1.0
+entertainment,motivation,0.259
+entertainment,social sharing,0.833
+entertainment,food,0.1
+entertainment,feedback to provider,0.538
+entertainment,complaining,0.318
+entertainment,fashion,0.153
+entertainment,self-improvement,0.115
+entertainment,travel,0.097
+entertainment,premium card curiosity,0.147
+entertainment,diversification intent,0.089
+entertainment,seeking advice,0.217
+entertainment,product comparison,0.064
+entertainment,risk mitigation,0.038
+entertainment,account access issue,0.013
+entertainment,fitness,0.013
+entertainment,wellness,0.026
+entertainment,wealth building,0.013
+entertainment,stocks investing,0.147
+celebrating,entertainment,0.781
+celebrating,motivation,0.552
+celebrating,social sharing,1.0
+celebrating,fashion,0.15
+celebrating,luxury,0.558
+celebrating,feedback to provider,0.674
+celebrating,seeking advice,0.05
+celebrating,self-improvement,0.189
+celebrating,wellness,0.07
+celebrating,complaining,0.199
+celebrating,food,0.108
+celebrating,fitness,0.03
+celebrating,diversification intent,0.188
+celebrating,travel,0.259
+celebrating,career growth,0.03
+celebrating,travel card interest,0.075
+celebrating,education,0.02
+celebrating,product comparison,0.05
+celebrating,mutual fund interest,0.01
+celebrating,premium card curiosity,0.06
+celebrating,wealth building,0.05
+celebrating,SIP planning,0.01
+celebrating,risk mitigation,0.01
+celebrating,stocks investing,0.112
+celebrating,financial management,0.025
+celebrating,crypto investing,0.03
+motivation,celebrating,1.0
+motivation,entertainment,0.366
+motivation,social sharing,0.841
+motivation,education,0.036
+motivation,seeking advice,0.572
+motivation,self-improvement,0.596
+motivation,feedback to provider,0.646
+motivation,complaining,0.361
+motivation,fitness,0.054
+motivation,diversification intent,0.287
+motivation,luxury,0.072
+motivation,account access issue,0.135
+motivation,product comparison,0.018
+motivation,career growth,0.09
+motivation,travel,0.141
+motivation,risk mitigation,0.185
+motivation,premium card curiosity,0.018
+motivation,fashion,0.018
+motivation,SIP planning,0.018
+motivation,financial management,0.054
+motivation,transaction dispute,0.054
+motivation,wellness,0.054
+motivation,stocks investing,0.21
+motivation,crypto investing,0.054
+motivation,wealth building,0.108
+education,motivation,1.0
+education,seeking advice,0.5
+education,self-improvement,0.5
+education,celebrating,1.0
+education,diversification intent,0.5
+education,social sharing,1.0
+seeking advice,education,0.011
+seeking advice,motivation,0.338
+seeking advice,self-improvement,0.213
+seeking advice,celebrating,0.053
+seeking advice,feedback to provider,1.0
+seeking advice,complaining,0.751
+seeking advice,social sharing,0.322
+seeking advice,luxury,0.075
+seeking advice,entertainment,0.181
+seeking advice,food,0.069
+seeking advice,account access issue,0.073
+seeking advice,diversification intent,0.206
+seeking advice,premium card curiosity,0.25
+seeking advice,travel,0.128
+seeking advice,savings planning,0.011
+seeking advice,risk mitigation,0.407
+seeking advice,financial literacy,0.076
+seeking advice,financial management,0.551
+seeking advice,budgeting concern,0.11
+seeking advice,market anxiety,0.028
+seeking advice,income insecurity,0.104
+seeking advice,stocks investing,0.241
+seeking advice,EMI concern,0.105
+seeking advice,product comparison,0.084
+seeking advice,wealth building,0.101
+seeking advice,transaction dispute,0.114
+seeking advice,mutual fund interest,0.057
+seeking advice,career growth,0.096
+seeking advice,debt stress,0.064
+seeking advice,crypto investing,0.032
+self-improvement,education,0.03
+self-improvement,motivation,1.0
+self-improvement,seeking advice,0.606
+self-improvement,celebrating,0.576
+self-improvement,feedback to provider,0.545
+self-improvement,wellness,0.061
+self-improvement,diversification intent,0.485
+self-improvement,fashion,0.121
+self-improvement,luxury,0.152
+self-improvement,entertainment,0.273
+self-improvement,social sharing,0.515
+self-improvement,financial management,0.152
+self-improvement,fitness,0.061
+self-improvement,risk mitigation,0.212
+self-improvement,career growth,0.364
+self-improvement,complaining,0.03
+self-improvement,savings planning,0.03
+self-improvement,income insecurity,0.061
+self-improvement,premium card curiosity,0.03
+self-improvement,product comparison,0.03
+self-improvement,mutual fund interest,0.03
+self-improvement,travel,0.121
+self-improvement,wealth building,0.364
+self-improvement,stocks investing,0.091
+diversification intent,feedback to provider,0.633
+diversification intent,social sharing,0.468
+diversification intent,travel,0.391
+diversification intent,fashion,0.128
+diversification intent,luxury,0.346
+diversification intent,self-improvement,0.411
+diversification intent,food,0.077
+diversification intent,product comparison,0.308
+diversification intent,celebrating,0.485
+diversification intent,premium card curiosity,0.205
+diversification intent,risk mitigation,1.0
+diversification intent,motivation,0.408
+diversification intent,entertainment,0.18
+diversification intent,education,0.026
+diversification intent,seeking advice,0.495
+diversification intent,career growth,0.317
+diversification intent,income insecurity,0.026
+diversification intent,complaining,0.077
+diversification intent,financial management,0.469
+diversification intent,wealth building,0.321
+diversification intent,crypto investing,0.231
+diversification intent,stocks investing,0.231
+diversification intent,transaction dispute,0.054
+diversification intent,account access issue,0.077
+travel,diversification intent,0.585
+travel,feedback to provider,0.577
+travel,social sharing,0.717
+travel,celebrating,1.0
+travel,entertainment,0.294
+travel,premium card curiosity,0.115
+travel,seeking advice,0.462
+travel,luxury,0.702
+travel,product comparison,0.077
+travel,motivation,0.3
+travel,travel card interest,0.609
+travel,complaining,0.244
+travel,food,0.077
+travel,fashion,0.038
+travel,career growth,0.308
+travel,self-improvement,0.154
+travel,wellness,0.115
+travel,risk mitigation,0.077
+fashion,celebrating,1.0
+fashion,luxury,1.0
+fashion,social sharing,0.467
+fashion,diversification intent,0.333
+fashion,self-improvement,0.267
+fashion,complaining,0.133
+fashion,entertainment,0.8
+fashion,career growth,0.067
+fashion,product comparison,0.2
+fashion,feedback to provider,0.2
+fashion,risk mitigation,0.067
+fashion,wealth building,0.067
+fashion,motivation,0.067
+fashion,travel,0.067
+wellness,celebrating,1.0
+wellness,feedback to provider,0.571
+wellness,self-improvement,0.286
+wellness,luxury,0.286
+wellness,social sharing,1.0
+wellness,entertainment,0.286
+wellness,motivation,0.429
+wellness,travel,0.429
+complaining,celebrating,0.284
+complaining,motivation,0.284
+complaining,social sharing,0.199
+complaining,feedback to provider,0.506
+complaining,seeking advice,1.0
+complaining,entertainment,0.354
+complaining,fashion,0.028
+complaining,premium card curiosity,0.096
+complaining,transaction dispute,0.291
+complaining,account access issue,0.054
+complaining,savings planning,0.014
+complaining,self-improvement,0.014
+complaining,food,0.028
+complaining,product comparison,0.014
+complaining,diversification intent,0.043
+complaining,risk mitigation,0.17
+complaining,fitness,0.014
+complaining,travel,0.09
+complaining,EMI concern,0.099
+complaining,luxury,0.057
+complaining,income insecurity,0.142
+complaining,stocks investing,0.132
+complaining,crypto investing,0.043
+complaining,travel card interest,0.033
+food,celebrating,1.0
+food,entertainment,0.724
+food,social sharing,0.552
+food,diversification intent,0.276
+food,luxury,0.368
+food,product comparison,0.276
+food,seeking advice,0.597
+food,feedback to provider,0.703
+food,complaining,0.184
+food,travel,0.184
+food,risk mitigation,0.276
+food,budgeting concern,0.228
+fitness,celebrating,0.407
+fitness,motivation,0.407
+fitness,social sharing,0.136
+fitness,financial management,0.271
+fitness,risk mitigation,0.458
+fitness,self-improvement,0.271
+fitness,feedback to provider,1.0
+fitness,luxury,0.136
+fitness,complaining,0.136
+fitness,entertainment,0.136
+fitness,mutual fund interest,0.136
+premium card curiosity,diversification intent,0.342
+premium card curiosity,risk mitigation,0.085
+premium card curiosity,social sharing,0.598
+premium card curiosity,complaining,0.288
+premium card curiosity,entertainment,0.493
+premium card curiosity,feedback to provider,0.555
+premium card curiosity,luxury,0.45
+premium card curiosity,mutual fund interest,0.043
+premium card curiosity,seeking advice,1.0
+premium card curiosity,travel,0.128
+premium card curiosity,celebrating,0.256
+premium card curiosity,motivation,0.043
+premium card curiosity,self-improvement,0.043
+premium card curiosity,wealth building,0.199
+premium card curiosity,EMI concern,0.099
+premium card curiosity,stocks investing,0.115
+premium card curiosity,product comparison,0.128
+risk mitigation,diversification intent,1.0
+risk mitigation,premium card curiosity,0.051
+risk mitigation,social sharing,0.385
+risk mitigation,financial management,0.887
+risk mitigation,fitness,0.087
+risk mitigation,self-improvement,0.18
+risk mitigation,fashion,0.026
+risk mitigation,luxury,0.051
+risk mitigation,career growth,0.026
+risk mitigation,entertainment,0.077
+risk mitigation,feedback to provider,0.839
+risk mitigation,income insecurity,0.103
+risk mitigation,complaining,0.308
+risk mitigation,motivation,0.262
+risk mitigation,account access issue,0.09
+risk mitigation,seeking advice,0.98
+risk mitigation,SIP planning,0.026
+risk mitigation,celebrating,0.026
+risk mitigation,product comparison,0.169
+risk mitigation,transaction dispute,0.254
+risk mitigation,crypto investing,0.154
+risk mitigation,travel card interest,0.051
+risk mitigation,insurance interest,0.066
+risk mitigation,wealth building,0.154
+risk mitigation,food,0.077
+risk mitigation,stocks investing,0.255
+risk mitigation,EMI concern,0.077
+risk mitigation,travel,0.051
+risk mitigation,savings planning,0.077
+risk mitigation,market anxiety,0.077
+account access issue,feedback to provider,1.0
+account access issue,motivation,0.915
+account access issue,social sharing,0.244
+account access issue,complaining,0.466
+account access issue,seeking advice,0.832
+account access issue,entertainment,0.122
+account access issue,risk mitigation,0.427
+account access issue,career growth,0.122
+account access issue,diversification intent,0.366
+account access issue,financial management,0.268
+transaction dispute,complaining,1.0
+transaction dispute,feedback to provider,0.933
+transaction dispute,product comparison,0.049
+transaction dispute,risk mitigation,0.482
+transaction dispute,social sharing,0.098
+transaction dispute,financial management,0.269
+transaction dispute,motivation,0.146
+transaction dispute,income insecurity,0.374
+transaction dispute,SIP planning,0.146
+transaction dispute,career growth,0.146
+transaction dispute,credit card interest,0.146
+transaction dispute,EMI concern,0.131
+transaction dispute,seeking advice,0.521
+transaction dispute,diversification intent,0.103
+transaction dispute,wealth building,0.103
+transaction dispute,stocks investing,0.092
+travel card interest,celebrating,0.473
+travel card interest,feedback to provider,0.126
+travel card interest,luxury,0.316
+travel card interest,social sharing,0.063
+travel card interest,travel,1.0
+travel card interest,financial management,0.126
+travel card interest,risk mitigation,0.126
+travel card interest,complaining,0.148
+travel card interest,career growth,0.189
+mutual fund interest,feedback to provider,0.315
+mutual fund interest,luxury,0.158
+mutual fund interest,premium card curiosity,0.158
+mutual fund interest,celebrating,0.158
+mutual fund interest,social sharing,0.158
+mutual fund interest,financial management,1.0
+mutual fund interest,fitness,0.158
+mutual fund interest,self-improvement,0.158
+mutual fund interest,seeking advice,0.842
+financial management,fitness,0.039
+financial management,risk mitigation,0.669
+financial management,self-improvement,0.097
+financial management,luxury,0.193
+financial management,social sharing,0.019
+financial management,diversification intent,0.353
+financial management,mutual fund interest,0.123
+financial management,motivation,0.058
+financial management,transaction dispute,0.106
+financial management,career growth,0.103
+financial management,wealth building,0.382
+financial management,feedback to provider,0.32
+financial management,financial literacy,0.137
+financial management,seeking advice,1.0
+financial management,crypto investing,0.058
+financial management,travel card interest,0.039
+financial management,budgeting concern,0.253
+financial management,EMI concern,0.152
+financial management,debt stress,0.116
+financial management,savings planning,0.101
+financial management,stocks investing,0.202
+financial management,celebrating,0.048
+financial management,credit card interest,0.116
+financial management,account access issue,0.043
+wealth building,celebrating,0.253
+wealth building,fashion,0.051
+wealth building,luxury,0.784
+wealth building,product comparison,0.051
+wealth building,entertainment,0.051
+wealth building,social sharing,0.051
+wealth building,diversification intent,0.633
+wealth building,financial management,1.0
+wealth building,risk mitigation,0.304
+wealth building,career growth,0.304
+wealth building,self-improvement,0.608
+wealth building,seeking advice,0.48
+wealth building,stocks investing,0.456
+wealth building,premium card curiosity,0.236
+wealth building,motivation,0.304
+wealth building,transaction dispute,0.106
+wealth building,income insecurity,0.146
+wealth building,credit card interest,0.152
+savings planning,complaining,0.192
+savings planning,seeking advice,0.192
+savings planning,self-improvement,0.192
+savings planning,budgeting concern,0.423
+savings planning,financial management,1.0
+savings planning,risk mitigation,0.577
+income insecurity,diversification intent,0.1
+income insecurity,risk mitigation,0.401
+income insecurity,self-improvement,0.2
+income insecurity,EMI concern,0.281
+income insecurity,market anxiety,0.581
+income insecurity,complaining,1.0
+income insecurity,seeking advice,0.974
+income insecurity,transaction dispute,0.768
+income insecurity,budgeting concern,0.301
+income insecurity,feedback to provider,0.301
+income insecurity,wealth building,0.289
+income insecurity,debt stress,0.301
+EMI concern,complaining,0.709
+EMI concern,feedback to provider,0.709
+EMI concern,social sharing,0.101
+EMI concern,income insecurity,0.283
+EMI concern,market anxiety,0.283
+EMI concern,debt stress,0.304
+EMI concern,financial management,0.798
+EMI concern,seeking advice,1.0
+EMI concern,risk mitigation,0.304
+EMI concern,premium card curiosity,0.235
+EMI concern,transaction dispute,0.271
+EMI concern,credit card interest,0.304
+SIP planning,celebrating,0.333
+SIP planning,motivation,0.333
+SIP planning,risk mitigation,0.333
+SIP planning,feedback to provider,1.0
+SIP planning,transaction dispute,1.0
+market anxiety,EMI concern,0.483
+market anxiety,income insecurity,1.0
+market anxiety,seeking advice,0.448
+market anxiety,risk mitigation,0.517
+financial literacy,financial management,1.0
+financial literacy,seeking advice,1.0
+crypto investing,diversification intent,1.0
+crypto investing,risk mitigation,0.667
+crypto investing,financial management,0.333
+crypto investing,luxury,0.667
+crypto investing,feedback to provider,0.667
+crypto investing,celebrating,0.333
+crypto investing,motivation,0.333
+crypto investing,complaining,0.333
+crypto investing,seeking advice,0.333
+budgeting concern,financial management,1.0
+budgeting concern,seeking advice,0.792
+budgeting concern,savings planning,0.168
+budgeting concern,feedback to provider,0.23
+budgeting concern,income insecurity,0.23
+budgeting concern,credit card interest,0.23
+budgeting concern,food,0.19
+insurance interest,product comparison,1.0
+insurance interest,risk mitigation,1.0
+stocks investing,feedback to provider,0.508
+stocks investing,seeking advice,1.0
+stocks investing,celebrating,0.496
+stocks investing,entertainment,0.51
+stocks investing,financial management,0.46
+stocks investing,motivation,0.513
+stocks investing,risk mitigation,0.438
+stocks investing,diversification intent,0.398
+stocks investing,wealth building,0.398
+stocks investing,complaining,0.41
+stocks investing,career growth,0.133
+stocks investing,self-improvement,0.133
+stocks investing,product comparison,0.106
+stocks investing,premium card curiosity,0.119
+stocks investing,transaction dispute,0.083
+debt stress,EMI concern,0.5
+debt stress,financial management,1.0
+debt stress,seeking advice,1.0
+debt stress,income insecurity,0.5
+credit card interest,career growth,0.5
+credit card interest,transaction dispute,0.5
+credit card interest,budgeting concern,0.5
+credit card interest,financial management,1.0
+credit card interest,EMI concern,0.5
+credit card interest,luxury,0.5
+credit card interest,wealth building,0.5

@@ -1,0 +1,1501 @@
+user_id,date,amount,category,merchant
+U001,2024-10-10,5703.51,Dining,Gates PLC
+U001,2024-12-22,5896.11,Healthcare,Shelton-Spence
+U001,2024-11-04,3308.52,Healthcare,"Turner, Smith and Foster"
+U001,2024-12-18,4642.06,Electronics,Yoder-Lewis
+U001,2024-11-23,4947.45,Electronics,Shepherd and Sons
+U001,2024-12-23,1630.6,Utilities,"Gould, Tate and Garcia"
+U001,2024-11-13,5733.46,Entertainment,"Perez, Mcpherson and Strickland"
+U001,2024-10-01,3823.49,Education,"Estes, Mack and Huynh"
+U001,2025-01-05,7838.1,Groceries,Johnson PLC
+U001,2024-12-12,8142.21,Electronics,"Gonzalez, Lang and Taylor"
+U001,2025-03-17,3948.3,Education,Alvarez-Vaughn
+U001,2025-02-22,3785.48,Education,"Aguilar, Padilla and Clark"
+U001,2024-10-20,5387.8,Dining,Edwards Inc
+U001,2024-10-12,2501.34,Entertainment,"Wilkinson, Powell and Allen"
+U001,2025-02-01,8588.66,Healthcare,Cook-Harvey
+U001,2024-12-16,3663.72,Utilities,Fuentes LLC
+U001,2024-12-12,9217.2,Dining,Martinez and Sons
+U001,2024-11-04,9737.98,Groceries,Kim-Vega
+U001,2025-01-17,8971.26,Travel,Huang-Rodriguez
+U001,2024-10-16,1241.02,Utilities,"Webb, Brown and Jordan"
+U001,2025-02-13,5076.73,Travel,Barton-Griffith
+U001,2025-01-20,7913.96,Education,"Griffin, Mendez and Strickland"
+U001,2025-03-17,7496.91,Entertainment,Nguyen-Kramer
+U001,2025-01-05,5064.31,Education,"Stone, Orozco and Mclean"
+U001,2024-11-09,6306.59,Dining,"Fitzgerald, Savage and Wilson"
+U001,2024-11-06,9268.56,Healthcare,"Hooper, Rollins and Bryant"
+U001,2025-02-03,5588.29,Education,Hansen LLC
+U001,2024-09-28,7219.15,Education,"Brock, Johnson and English"
+U001,2025-01-13,8611.72,Electronics,Vasquez-Foster
+U001,2025-02-01,1509.55,Entertainment,Lloyd LLC
+U001,2024-11-14,8112.11,Travel,"Perez, Berry and Miranda"
+U001,2025-01-13,3484.49,Education,"Johnson, Khan and Petty"
+U001,2024-10-16,1153.42,Education,Morrison-Clark
+U001,2024-12-03,2719.89,Groceries,Ortiz Ltd
+U001,2024-12-06,566.05,Utilities,"Smith, Cruz and Carter"
+U001,2025-01-03,3564.07,Entertainment,Jones-Sharp
+U001,2024-11-07,3250.57,Utilities,Owen Group
+U001,2025-02-08,2084.07,Healthcare,Brown Group
+U001,2024-09-29,2977.21,Utilities,"Thomas, Watts and Sanchez"
+U001,2025-02-08,8532.87,Groceries,Hardy Inc
+U001,2025-02-22,3815.43,Travel,Martinez Inc
+U001,2025-01-18,9732.02,Healthcare,"Davis, Sosa and Thomas"
+U001,2025-03-04,1625.95,Dining,"Ramirez, Peterson and White"
+U001,2025-01-20,7568.09,Travel,Pennington-Keith
+U001,2024-12-27,8834.97,Entertainment,Colon-Graham
+U001,2025-02-25,7682.16,Entertainment,"Murphy, Cox and Martin"
+U001,2024-11-16,2386.21,Electronics,Church Inc
+U001,2025-02-28,6691.46,Travel,Camacho-Williamson
+U001,2025-02-21,3273.77,Utilities,Phillips-Garcia
+U001,2024-12-29,4058.03,Entertainment,Garcia-Taylor
+U002,2024-11-22,9905.32,Dining,"Reynolds, Carpenter and Floyd"
+U002,2025-02-14,9333.44,Utilities,Brown and Sons
+U002,2024-12-14,6520.07,Healthcare,"Jones, Mills and Wheeler"
+U002,2025-03-22,2684.66,Dining,Phillips-Mclaughlin
+U002,2024-11-03,4446.36,Education,Moses-Martinez
+U002,2025-01-13,5606.54,Entertainment,Gilbert-Stewart
+U002,2024-10-04,7399.92,Education,Miller LLC
+U002,2024-10-22,1305.69,Healthcare,"Smith, Pierce and Jones"
+U002,2024-12-15,6444.25,Dining,Wheeler PLC
+U002,2024-10-09,4266.96,Dining,Moore-Rhodes
+U002,2025-03-12,3499.98,Entertainment,Hale-Mckee
+U002,2024-10-12,8624.54,Healthcare,"Thompson, Lopez and Butler"
+U002,2024-10-17,3378.42,Utilities,Walsh-Eaton
+U002,2025-03-01,8053.76,Electronics,Patterson-Chaney
+U002,2025-01-26,2197.21,Travel,Hughes Ltd
+U002,2024-10-11,6380.72,Utilities,"Rodriguez, Valenzuela and Garner"
+U002,2025-02-28,5769.82,Education,"Myers, Villanueva and Koch"
+U002,2024-11-16,7222.62,Education,Torres-Noble
+U002,2025-03-16,7867.1,Utilities,"Weiss, Rogers and Hughes"
+U002,2024-11-02,408.97,Groceries,Rojas Ltd
+U002,2024-10-03,7778.77,Education,"Obrien, Mercer and Hammond"
+U002,2025-01-30,802.39,Healthcare,"Burton, Myers and Riggs"
+U002,2025-02-08,909.73,Dining,Mcmahon-Flores
+U002,2024-12-11,6854.25,Groceries,"Garza, Brown and Myers"
+U002,2025-01-06,5445.98,Dining,Carrillo PLC
+U002,2024-12-25,9770.46,Travel,"Hensley, Cox and Poole"
+U002,2024-10-15,812.26,Electronics,"Ashley, Davidson and Williams"
+U002,2025-02-19,4091.95,Utilities,Graves Ltd
+U002,2024-10-08,5101.83,Electronics,"Reed, Bass and Cox"
+U002,2024-10-14,6271.85,Electronics,Hart-Smith
+U002,2025-01-30,1688.84,Groceries,Williams-Williams
+U002,2025-01-10,8147.66,Groceries,Maxwell-Edwards
+U002,2025-01-05,8178.34,Entertainment,Brown Inc
+U002,2024-12-16,2077.74,Education,"Brown, Johnson and West"
+U002,2024-11-13,7884.44,Travel,Barton-Roy
+U002,2025-01-28,7303.16,Groceries,Roberts and Sons
+U002,2025-01-21,4854.26,Dining,Ramos PLC
+U002,2024-10-06,7443.1,Groceries,Hernandez Inc
+U002,2025-03-02,5637.23,Groceries,"Copeland, Lewis and Welch"
+U002,2025-01-05,8815.06,Groceries,"Campbell, Glenn and Dominguez"
+U002,2025-01-02,5119.34,Education,Page-Lewis
+U002,2024-10-20,9264.41,Electronics,Acosta-Chapman
+U002,2024-09-23,6108.21,Dining,Thompson Group
+U002,2024-12-26,8402.66,Travel,Lawson Group
+U002,2025-01-11,2696.18,Groceries,Gibson Ltd
+U002,2024-10-20,2688.78,Healthcare,Wolf Group
+U002,2024-10-16,1248.57,Groceries,"Harmon, White and Sampson"
+U002,2024-12-12,3271.52,Utilities,Simmons-Herrera
+U002,2024-11-13,4065.61,Entertainment,"Ferguson, Walker and Gray"
+U002,2025-01-28,7467.67,Electronics,"Moore, Williams and Gilmore"
+U003,2024-10-28,1955.26,Utilities,Avila-Jones
+U003,2024-11-27,5439.2,Dining,Vega Inc
+U003,2025-03-06,4847.21,Groceries,"Brown, Hernandez and Merritt"
+U003,2024-12-22,9221.76,Groceries,Young Ltd
+U003,2024-12-26,1193.0,Education,Scott-Lewis
+U003,2025-02-16,2816.63,Healthcare,"Salazar, Miller and Adams"
+U003,2024-11-05,4551.55,Electronics,Morgan Ltd
+U003,2025-03-09,2651.2,Education,Pineda-Parsons
+U003,2024-11-28,7984.73,Electronics,Butler and Sons
+U003,2025-03-21,6710.03,Dining,"Anderson, Gilbert and Bishop"
+U003,2025-03-03,651.29,Utilities,"Williams, Baker and Rodriguez"
+U003,2024-12-18,6379.49,Electronics,Mitchell Ltd
+U003,2025-01-23,5548.22,Groceries,Lewis Ltd
+U003,2025-02-26,5166.46,Dining,Arellano-Arnold
+U003,2024-11-19,1176.14,Groceries,Rivers-Cross
+U003,2025-01-17,3270.58,Travel,Martin PLC
+U003,2025-01-06,3679.4,Groceries,Perkins Group
+U003,2024-10-25,5954.63,Utilities,Daniels Ltd
+U003,2025-02-10,5203.53,Groceries,"Nelson, Turner and Delgado"
+U003,2024-10-06,236.97,Dining,Curtis LLC
+U003,2024-12-29,4342.92,Groceries,"Snow, Wilson and Hunter"
+U003,2025-02-26,8918.7,Utilities,Ellison-Brown
+U003,2024-10-22,9275.55,Electronics,Mullins-Wood
+U003,2025-02-25,177.45,Education,"Barrett, Mcclure and Lee"
+U003,2024-10-17,1562.6,Travel,Perez-Brown
+U003,2024-12-08,6394.32,Travel,"White, Cooke and Hartman"
+U003,2025-01-15,1676.77,Healthcare,"Velez, Fischer and Mills"
+U003,2024-12-01,1846.28,Electronics,"Adams, Martinez and Webb"
+U003,2024-10-21,7784.55,Travel,Vargas and Sons
+U003,2025-03-01,6848.21,Entertainment,Castro-Sullivan
+U003,2025-01-11,8696.78,Utilities,"Garner, Griffin and Solomon"
+U003,2025-03-19,5034.15,Healthcare,Valdez-Jackson
+U003,2024-12-11,8916.05,Utilities,Barr Ltd
+U003,2024-10-01,6523.03,Dining,"Williams, Villanueva and Hernandez"
+U003,2025-03-04,3917.86,Dining,"Smith, Estrada and Mendoza"
+U003,2024-10-30,7324.68,Entertainment,Burke-Torres
+U003,2024-11-09,8236.56,Electronics,Clark-Randolph
+U003,2025-02-07,5119.58,Electronics,Perry LLC
+U003,2024-10-25,5267.02,Healthcare,Chang-Cannon
+U003,2024-10-20,1641.56,Travel,Krause PLC
+U003,2024-10-01,2801.79,Education,Gomez LLC
+U003,2024-10-29,9076.04,Entertainment,Cook PLC
+U003,2024-12-09,9812.07,Groceries,Li Group
+U003,2024-12-07,7949.29,Groceries,Collins-Herrera
+U003,2024-11-30,383.9,Entertainment,Knight PLC
+U003,2025-01-18,1566.12,Dining,Nelson and Sons
+U003,2025-02-07,2897.52,Groceries,Davis Group
+U003,2024-11-25,7040.81,Utilities,Wise Ltd
+U003,2024-11-21,7330.03,Utilities,"Mercado, Chavez and Rojas"
+U003,2025-02-17,8503.11,Healthcare,Gonzalez-Bailey
+U004,2025-02-03,3453.74,Entertainment,Romero-West
+U004,2024-10-29,2158.1,Entertainment,Simpson-Collins
+U004,2024-10-09,2861.17,Education,"Osborne, Marshall and Williams"
+U004,2024-11-26,5268.88,Electronics,"Stephens, Wong and Carter"
+U004,2025-01-17,8505.54,Groceries,Cole Ltd
+U004,2024-12-13,251.47,Entertainment,Hall-Diaz
+U004,2024-12-24,9047.03,Education,Parks Inc
+U004,2024-10-23,4826.83,Dining,Nixon Ltd
+U004,2024-12-16,9399.1,Entertainment,Herrera-Barker
+U004,2024-12-31,7906.11,Groceries,Curtis Group
+U004,2024-11-28,8261.69,Entertainment,"Young, Johnson and Huber"
+U004,2025-01-04,239.9,Entertainment,"Ortiz, Hanson and Sharp"
+U004,2024-10-13,6911.04,Travel,Davis Group
+U004,2025-01-18,120.72,Groceries,"Gonzales, Hunt and Cabrera"
+U004,2025-03-17,4322.17,Entertainment,Smith Ltd
+U004,2024-09-23,8844.16,Healthcare,"Taylor, Jackson and Davis"
+U004,2024-10-08,5089.94,Dining,Anderson-Murphy
+U004,2025-02-20,7579.99,Dining,Anderson and Sons
+U004,2025-01-15,3963.57,Travel,Mills Ltd
+U004,2024-10-21,3102.75,Groceries,Lucero and Sons
+U004,2024-09-22,8748.16,Education,Franklin LLC
+U004,2024-12-12,452.3,Healthcare,"Moore, Taylor and Hernandez"
+U004,2025-03-06,2041.17,Electronics,"Saunders, Mason and Garrison"
+U004,2024-12-21,6802.02,Education,"Andrews, Weiss and Williams"
+U004,2024-12-19,2824.57,Groceries,Saunders-Lopez
+U004,2025-03-11,7310.17,Electronics,Mercado Group
+U004,2024-12-13,9871.92,Utilities,Mendez-Silva
+U004,2024-11-02,5864.71,Entertainment,Hall-Atkins
+U004,2024-09-22,7636.94,Entertainment,Combs-Schmidt
+U004,2025-01-21,4684.19,Utilities,Griffin-Smith
+U004,2025-01-11,8067.38,Healthcare,Nelson and Sons
+U004,2025-01-10,4758.51,Healthcare,Hodges-Mitchell
+U004,2024-12-26,2438.99,Groceries,Foster Group
+U004,2025-02-19,3434.69,Healthcare,Howard and Sons
+U004,2025-01-03,2806.87,Travel,Hughes-Watkins
+U004,2024-10-01,3385.44,Utilities,"Lowe, Gonzales and Perez"
+U004,2024-10-25,1857.17,Healthcare,Nelson-Benjamin
+U004,2024-12-11,1757.64,Education,"Decker, Simmons and Bailey"
+U004,2025-02-07,6039.42,Healthcare,Graves-Page
+U004,2025-01-23,377.87,Healthcare,Rivers-Miller
+U004,2024-11-24,8183.94,Healthcare,Smith-Holland
+U004,2024-11-15,4243.28,Groceries,"Mcdowell, Johnson and Baker"
+U004,2024-10-03,5625.15,Electronics,Hodges Inc
+U004,2025-02-23,9533.6,Education,Cantrell-Peterson
+U004,2025-01-14,2246.07,Utilities,Gill-Riddle
+U004,2025-01-27,1223.26,Education,Martin Inc
+U004,2024-09-24,1422.16,Healthcare,Bond Group
+U004,2024-11-18,5086.23,Electronics,Maldonado-Evans
+U004,2025-03-16,5820.95,Electronics,Cummings Group
+U004,2025-03-09,3091.31,Utilities,Simpson LLC
+U005,2025-03-07,4766.74,Education,"Snyder, Castillo and Stuart"
+U005,2024-10-03,5874.95,Electronics,Carr and Sons
+U005,2024-09-25,168.53,Electronics,"Terry, Smith and Williams"
+U005,2024-10-16,7974.21,Education,"Ellis, Vance and Smith"
+U005,2025-02-19,1804.16,Electronics,Parker-Estrada
+U005,2025-01-19,708.91,Education,Johnson-Brown
+U005,2025-01-11,7170.48,Utilities,Lee Ltd
+U005,2024-11-30,6524.62,Electronics,"James, Hunt and Cook"
+U005,2025-01-10,2250.14,Electronics,Riley PLC
+U005,2025-02-13,6576.58,Travel,Castro Inc
+U005,2024-11-18,7314.06,Utilities,Watson LLC
+U005,2024-11-08,1520.4,Travel,Hanson-Vasquez
+U005,2025-03-08,5248.89,Travel,"Nelson, Malone and David"
+U005,2024-11-19,6508.33,Travel,Henderson-Rivera
+U005,2024-12-09,7052.7,Healthcare,Salinas-Hoffman
+U005,2025-01-18,6110.25,Healthcare,Riley-Davis
+U005,2024-11-02,9395.86,Travel,Oliver-Griffith
+U005,2024-09-21,6105.74,Groceries,Scott-Carlson
+U005,2025-01-23,7157.08,Entertainment,Moore-Cain
+U005,2025-03-08,5851.21,Healthcare,Young-Torres
+U005,2024-11-01,5308.77,Utilities,Smith-Valencia
+U005,2024-10-16,9685.99,Healthcare,"Beard, Kelly and Harper"
+U005,2024-10-04,3402.05,Utilities,Banks LLC
+U005,2024-11-12,7254.12,Groceries,Robles-Crawford
+U005,2025-02-16,1724.63,Entertainment,Hill Inc
+U005,2024-12-20,2837.89,Electronics,Rodriguez-Tran
+U005,2025-01-31,1611.49,Utilities,"Short, Patel and Smith"
+U005,2025-01-08,5505.38,Groceries,Johnson PLC
+U005,2024-11-16,7380.7,Groceries,Lowe Group
+U005,2024-10-01,8291.63,Education,Greer Ltd
+U005,2025-02-28,4259.63,Travel,Freeman PLC
+U005,2025-01-09,7910.21,Groceries,Robinson-Ferguson
+U005,2025-03-11,2520.27,Education,"Pierce, Swanson and Wilson"
+U005,2025-01-03,8156.05,Dining,Whitaker-Stevens
+U005,2025-01-23,1921.8,Healthcare,Graham Inc
+U005,2025-01-03,519.48,Travel,Joseph-Collins
+U005,2024-11-02,3745.03,Electronics,Terry PLC
+U005,2024-12-22,9461.49,Electronics,Mccoy-Medina
+U005,2025-02-21,9100.73,Dining,Goodman Group
+U005,2025-01-25,4695.34,Travel,"Smith, Sanders and Mclean"
+U005,2024-12-04,704.93,Entertainment,Sullivan-Frederick
+U005,2024-10-23,5500.99,Healthcare,"Johnson, Jones and Conrad"
+U005,2024-10-24,2632.01,Groceries,Spence Group
+U005,2025-03-15,3092.7,Electronics,"Turner, Gilbert and Roman"
+U005,2025-01-03,4465.66,Groceries,Neal-Charles
+U005,2024-11-20,8353.88,Healthcare,Henry-Avila
+U005,2025-01-12,8325.72,Dining,Martin-Johnson
+U005,2024-11-08,187.12,Travel,Cross Inc
+U005,2024-11-17,9217.8,Dining,"Thomas, Pennington and Evans"
+U005,2025-01-07,2031.46,Dining,Castillo and Sons
+U006,2025-02-06,5590.54,Dining,Nash-Lewis
+U006,2025-02-16,1281.02,Education,Moran and Sons
+U006,2025-03-12,9758.38,Healthcare,King-Ross
+U006,2025-03-01,1267.69,Electronics,Calhoun-Perez
+U006,2024-12-13,3293.12,Entertainment,Brewer-Turner
+U006,2024-12-22,4007.67,Entertainment,Alexander PLC
+U006,2024-11-18,5167.64,Groceries,"Parker, Reeves and Hartman"
+U006,2025-01-22,8708.43,Healthcare,Cisneros Inc
+U006,2025-03-09,3527.25,Utilities,Jones-Reyes
+U006,2025-02-10,2255.59,Utilities,Mccormick-Caldwell
+U006,2024-12-05,8170.11,Travel,Mooney LLC
+U006,2025-02-28,6981.67,Travel,"Ellis, Robinson and Watkins"
+U006,2024-10-28,8453.43,Dining,Edwards and Sons
+U006,2025-03-09,396.13,Education,"Stewart, Jones and Haynes"
+U006,2024-12-08,4943.81,Education,Johnson and Sons
+U006,2025-02-17,8509.84,Utilities,"Benjamin, Carpenter and Gutierrez"
+U006,2025-03-20,3574.25,Groceries,"Richards, George and Anderson"
+U006,2024-10-30,5695.56,Education,Gonzalez-Roth
+U006,2025-01-28,1506.85,Electronics,Johnson-Horn
+U006,2025-02-04,1832.79,Utilities,Saunders and Sons
+U006,2025-01-19,5263.9,Groceries,Anderson LLC
+U006,2024-11-22,8292.58,Groceries,Archer-Ayala
+U006,2025-03-15,3484.43,Education,"Duncan, Smith and Ramirez"
+U006,2025-02-24,6342.8,Healthcare,Morales-Ramirez
+U006,2024-12-06,339.63,Education,"Lang, Cannon and Norman"
+U006,2025-03-19,4844.25,Education,Taylor PLC
+U006,2025-01-31,463.23,Education,Terrell-Henry
+U006,2025-03-08,1297.68,Utilities,Lamb-Evans
+U006,2025-01-08,1165.74,Education,Williams-Conley
+U006,2025-02-08,5269.19,Entertainment,James and Sons
+U006,2025-03-03,2845.83,Utilities,"Smith, Powell and Moore"
+U006,2024-10-15,8341.53,Travel,Baker-Sims
+U006,2025-02-11,943.26,Travel,Hopkins Inc
+U006,2024-10-29,5450.41,Healthcare,Clark-Peters
+U006,2025-02-11,5588.72,Dining,Hensley Inc
+U006,2025-02-28,2354.25,Electronics,Cohen-Wood
+U006,2024-12-04,1765.14,Groceries,Patrick-Martinez
+U006,2024-12-19,6991.32,Utilities,Strickland-Smith
+U006,2025-01-16,8689.76,Entertainment,Stewart-Torres
+U006,2024-12-09,1287.95,Healthcare,Nguyen-Gardner
+U006,2024-10-05,9235.41,Utilities,Sosa LLC
+U006,2025-02-05,8691.25,Groceries,Thompson-Flynn
+U006,2024-10-07,4465.2,Dining,Alvarez-Dean
+U006,2025-01-30,5147.52,Entertainment,Malone-Brady
+U006,2024-10-12,9358.16,Utilities,Gaines-Morrison
+U006,2025-01-12,7722.86,Education,Gray-Nolan
+U006,2025-03-14,5095.15,Healthcare,"Pearson, Walker and Lindsey"
+U006,2024-10-30,6397.46,Entertainment,Serrano Inc
+U006,2024-11-06,8991.96,Dining,Berry Ltd
+U006,2024-10-20,6460.14,Utilities,"Brown, Johnson and Scott"
+U007,2024-12-13,1233.8,Dining,"Nolan, Lane and Whitney"
+U007,2024-11-16,906.6,Electronics,Armstrong-Hall
+U007,2025-03-04,4663.23,Electronics,"Floyd, Mccann and Martin"
+U007,2025-03-17,3403.32,Utilities,"Stokes, Navarro and Nichols"
+U007,2024-09-23,2436.68,Utilities,Thompson-James
+U007,2025-01-22,6396.55,Dining,"Stephenson, Frazier and Johnson"
+U007,2025-02-23,4106.35,Groceries,Mccarthy-Moreno
+U007,2024-11-25,5840.37,Groceries,Floyd-Spears
+U007,2024-12-23,1266.39,Healthcare,Whitehead-Irwin
+U007,2024-10-30,8322.92,Dining,Bird PLC
+U007,2025-03-19,4406.84,Groceries,Mcknight-Carter
+U007,2024-11-25,5046.51,Utilities,"Lewis, Gonzalez and Preston"
+U007,2024-12-10,7867.81,Dining,Miller-Johnston
+U007,2025-01-08,9828.1,Healthcare,"Brooks, Johnson and Paul"
+U007,2024-12-11,1752.45,Groceries,Yang Ltd
+U007,2024-12-01,2445.89,Healthcare,Price LLC
+U007,2025-03-16,6910.36,Healthcare,Williams-Mckenzie
+U007,2025-02-02,3002.13,Entertainment,"Barnett, Christensen and Higgins"
+U007,2024-12-06,6741.75,Dining,"Baker, Mullins and Shaw"
+U007,2025-01-07,5299.64,Healthcare,Hays-Anderson
+U007,2024-11-25,2398.47,Education,"Parker, Schneider and Boone"
+U007,2025-02-06,7124.39,Travel,Sanders PLC
+U007,2024-10-01,6844.77,Dining,"Davis, Richards and Campbell"
+U007,2025-03-06,9838.22,Utilities,"Kelley, Flores and Pittman"
+U007,2025-01-19,8822.0,Healthcare,Gallegos Inc
+U007,2024-10-30,551.04,Utilities,"Blair, Baird and Rivera"
+U007,2025-03-11,2919.77,Entertainment,"Sanchez, Smith and Tran"
+U007,2024-10-03,4873.9,Entertainment,"Cox, Hebert and Morrison"
+U007,2025-03-16,7688.82,Healthcare,Barnes-Mathis
+U007,2024-10-31,8128.46,Entertainment,"Yang, Weber and Coleman"
+U007,2025-01-19,616.97,Entertainment,Khan and Sons
+U007,2024-12-24,3740.85,Education,"Garcia, Bates and Brown"
+U007,2024-10-12,9676.92,Dining,"Robinson, Michael and Jacobs"
+U007,2024-10-19,1933.57,Healthcare,Smith PLC
+U007,2025-01-23,4377.69,Dining,Hensley-Ramirez
+U007,2024-12-04,2628.73,Groceries,"Torres, Whitehead and Jones"
+U007,2024-11-30,1722.98,Healthcare,Odom LLC
+U007,2025-02-10,2744.6,Travel,"Evans, Dunn and Lane"
+U007,2025-03-13,941.19,Electronics,Bean Inc
+U007,2024-09-23,1617.84,Electronics,"Lester, Shaw and Ramirez"
+U007,2025-02-28,9741.54,Utilities,"Harrison, Joyce and Serrano"
+U007,2025-01-28,5419.06,Healthcare,"Perkins, Park and Smith"
+U007,2025-01-27,8557.06,Groceries,Doyle PLC
+U007,2024-09-30,1091.34,Healthcare,Burgess-Wheeler
+U007,2025-02-17,3718.68,Dining,Hernandez-Silva
+U007,2025-02-24,5880.92,Entertainment,Cruz-Walters
+U007,2025-01-22,5000.95,Electronics,Shelton-Mitchell
+U007,2024-12-26,6574.32,Utilities,Baxter-Booker
+U007,2025-02-09,2708.75,Entertainment,Baker-Miller
+U007,2025-01-13,3453.48,Travel,Garner Ltd
+U008,2025-02-09,1227.96,Utilities,Miller-Gonzalez
+U008,2024-12-13,1585.72,Education,Atkins-Robinson
+U008,2024-11-10,3461.25,Groceries,Mcdaniel and Sons
+U008,2024-10-20,4034.93,Groceries,Hart-Moyer
+U008,2024-12-16,6272.7,Groceries,"Wright, Castaneda and Stanton"
+U008,2025-01-26,7031.41,Travel,Brown-Roberts
+U008,2024-09-28,9065.22,Electronics,"Myers, Williams and Murphy"
+U008,2024-11-19,6892.36,Travel,"Mitchell, Dawson and Gomez"
+U008,2025-01-17,7903.65,Electronics,Ramos-Moreno
+U008,2024-09-30,8726.61,Healthcare,"Smith, Holmes and Roberts"
+U008,2024-11-29,5703.64,Healthcare,Norton-Blackburn
+U008,2025-01-10,4877.44,Travel,Moore Group
+U008,2025-02-21,4545.09,Groceries,"Ward, Daniels and Huber"
+U008,2024-11-01,3569.17,Travel,Mcdaniel-Thompson
+U008,2024-09-21,2134.02,Electronics,"Bruce, Watkins and Nguyen"
+U008,2024-11-28,9702.58,Education,Mccall Inc
+U008,2025-02-04,9758.59,Electronics,Sandoval-Brown
+U008,2024-11-16,4822.01,Healthcare,"Lee, Moore and Davis"
+U008,2024-10-31,4892.49,Groceries,Hernandez-Delacruz
+U008,2025-01-24,1043.24,Dining,"Brown, Foster and Coleman"
+U008,2024-10-23,6476.44,Electronics,Camacho Group
+U008,2025-03-12,826.68,Groceries,Lewis PLC
+U008,2024-12-24,8807.87,Groceries,Fuller Ltd
+U008,2024-10-27,2377.1,Electronics,Wright Group
+U008,2025-01-23,3920.12,Electronics,Holmes-Rogers
+U008,2025-01-02,1872.25,Travel,"Porter, Thomas and Reid"
+U008,2025-03-12,2588.57,Electronics,Ball-Hampton
+U008,2024-12-21,1417.01,Travel,Brown Group
+U008,2025-01-03,149.7,Dining,"Martin, Torres and Valdez"
+U008,2025-03-06,6331.63,Utilities,Pitts-Curtis
+U008,2024-12-08,3416.35,Dining,Hernandez LLC
+U008,2025-02-15,3325.35,Healthcare,Chan and Sons
+U008,2024-12-26,6155.52,Electronics,Castro-Roman
+U008,2025-02-08,6123.22,Education,Mullins-Rodriguez
+U008,2024-12-25,3124.49,Healthcare,"Davidson, Cruz and Tate"
+U008,2024-12-05,6702.81,Education,Douglas Ltd
+U008,2024-12-21,2593.16,Dining,Parks-Johnston
+U008,2025-03-09,9509.64,Travel,Willis PLC
+U008,2025-03-05,7927.3,Electronics,Rivera Group
+U008,2024-11-04,3884.1,Entertainment,"Richmond, Mcbride and Murphy"
+U008,2025-02-06,2781.34,Healthcare,Murphy-Mason
+U008,2025-01-19,3545.75,Groceries,Torres PLC
+U008,2025-02-21,3455.24,Education,"Harris, Erickson and Smith"
+U008,2025-01-08,4810.5,Education,Vasquez-Vasquez
+U008,2024-10-09,1567.58,Utilities,Thomas Ltd
+U008,2025-03-02,1625.52,Entertainment,Clements-Gordon
+U008,2024-12-17,2315.11,Healthcare,"Hunter, Bowen and Sherman"
+U008,2025-01-29,3072.48,Travel,Schmidt LLC
+U008,2024-11-24,2192.55,Utilities,"Martinez, Garcia and Cain"
+U008,2024-12-14,9726.47,Entertainment,Franco-Hicks
+U009,2024-10-26,5675.73,Groceries,Coleman-Jordan
+U009,2025-02-03,7376.93,Electronics,"Jackson, Harrell and Curry"
+U009,2024-10-14,9957.84,Travel,Castaneda LLC
+U009,2024-11-13,147.52,Healthcare,Bennett-Davis
+U009,2025-01-08,9474.06,Entertainment,Vance and Sons
+U009,2025-02-24,9491.12,Education,"Lopez, Martin and Hunter"
+U009,2024-10-31,3888.49,Groceries,Martin-Webb
+U009,2024-10-21,7510.26,Groceries,"Walker, Li and Hines"
+U009,2024-12-23,4988.1,Healthcare,Simpson-Santiago
+U009,2025-01-30,2671.21,Dining,"Mclaughlin, Roberson and Martinez"
+U009,2024-12-16,2863.08,Dining,"Hawkins, Long and Edwards"
+U009,2024-11-20,5912.87,Dining,Hoover-Long
+U009,2025-03-20,4379.06,Healthcare,"Schwartz, Wilson and Rodriguez"
+U009,2024-10-04,441.96,Dining,Wilkerson PLC
+U009,2025-03-14,9636.84,Utilities,Ball PLC
+U009,2025-02-14,4714.17,Education,Cooper-Olson
+U009,2024-10-28,551.06,Electronics,"Roach, Rivera and Johnson"
+U009,2024-10-05,4112.47,Travel,"Jenkins, Johnson and Lambert"
+U009,2025-01-06,8159.97,Entertainment,"Medina, Arroyo and Gomez"
+U009,2025-02-07,5850.11,Groceries,Scott-Ramos
+U009,2024-12-16,2369.53,Groceries,Farrell-Quinn
+U009,2025-02-15,3415.5,Education,"Richardson, Wilson and Vasquez"
+U009,2025-03-15,9212.29,Travel,Smith-Lane
+U009,2025-02-14,8983.94,Education,"Guzman, Cameron and Edwards"
+U009,2024-11-03,1686.36,Utilities,Davila and Sons
+U009,2024-12-16,627.91,Travel,"Lara, Reynolds and Lynn"
+U009,2025-03-08,1076.02,Utilities,Kelly-Richmond
+U009,2024-11-25,2986.11,Electronics,Jensen and Sons
+U009,2025-01-12,1552.47,Electronics,Mueller Group
+U009,2024-10-28,4957.4,Groceries,Harvey Group
+U009,2024-12-04,7985.28,Groceries,Kelly and Sons
+U009,2025-03-05,8861.42,Education,Jones-Fisher
+U009,2025-02-09,6792.11,Dining,Horton Ltd
+U009,2025-01-24,8757.95,Healthcare,"Fields, Cobb and Pham"
+U009,2024-10-21,5174.63,Education,Lopez PLC
+U009,2024-11-09,6540.97,Electronics,Taylor-Russell
+U009,2024-11-29,6487.83,Education,Baldwin-Miller
+U009,2025-01-26,483.63,Dining,Young-Fuller
+U009,2024-10-31,7264.3,Travel,Campbell PLC
+U009,2025-03-13,605.1,Utilities,"Sutton, Jimenez and Harrison"
+U009,2025-03-20,1109.08,Utilities,Price-Durham
+U009,2024-09-25,8540.87,Healthcare,Henson LLC
+U009,2024-12-31,9807.2,Travel,"Weaver, Bullock and Stevenson"
+U009,2024-10-22,6993.13,Utilities,Cowan-Weaver
+U009,2024-10-28,5210.95,Education,"Anthony, Scott and Taylor"
+U009,2025-02-09,6664.35,Utilities,Jones-Randall
+U009,2024-10-09,1530.64,Groceries,Taylor Inc
+U009,2025-02-09,6234.24,Entertainment,"Waters, Bryan and Montgomery"
+U009,2024-12-16,8261.38,Travel,Davidson-Murillo
+U009,2025-02-22,5970.85,Healthcare,"Smith, Baker and Dudley"
+U010,2024-12-03,788.54,Utilities,Howard-Delgado
+U010,2024-11-21,1061.93,Electronics,Jones-Smith
+U010,2024-11-16,7996.39,Dining,Duncan LLC
+U010,2024-11-12,4279.19,Groceries,Miranda-Torres
+U010,2025-02-07,8306.51,Utilities,Jones-Brown
+U010,2025-01-26,5194.41,Utilities,Ortiz-Davis
+U010,2025-01-06,7191.75,Groceries,Jones-Smith
+U010,2024-09-24,7133.07,Electronics,Ortega PLC
+U010,2025-03-18,2228.49,Travel,Carr-Hoover
+U010,2024-10-09,8624.37,Electronics,"Meyer, Allen and Anderson"
+U010,2025-01-16,3679.35,Groceries,"Harmon, Costa and Brown"
+U010,2025-03-10,6123.39,Groceries,Taylor Ltd
+U010,2025-03-08,5274.55,Groceries,"Moody, Clarke and Summers"
+U010,2024-11-10,5231.1,Entertainment,Wang Ltd
+U010,2025-03-20,8123.16,Travel,"Williams, Vasquez and Stewart"
+U010,2024-12-26,9543.97,Entertainment,Sweeney Inc
+U010,2025-01-06,6938.13,Healthcare,Winters-Huynh
+U010,2024-12-12,5536.76,Healthcare,"Francis, Rogers and Smith"
+U010,2024-12-01,444.36,Electronics,Lewis Inc
+U010,2025-03-07,9209.96,Groceries,Garrison-White
+U010,2024-11-30,7954.91,Dining,Spencer-Carter
+U010,2024-12-28,5338.21,Entertainment,Saunders-Drake
+U010,2025-03-19,9233.11,Education,Silva-Gordon
+U010,2025-01-17,8847.63,Entertainment,Hernandez LLC
+U010,2024-10-14,3682.56,Groceries,Compton Group
+U010,2024-12-13,5000.9,Entertainment,Davis-Hernandez
+U010,2025-02-20,8217.55,Travel,Patterson-Taylor
+U010,2024-10-31,9745.5,Groceries,"Kelley, Wagner and Tran"
+U010,2025-02-01,9171.32,Groceries,Hanson-Nichols
+U010,2025-01-22,4901.9,Healthcare,Castillo-Walker
+U010,2024-12-11,6022.18,Travel,"Kline, Rodriguez and Smith"
+U010,2025-02-21,7984.74,Entertainment,Johnson Inc
+U010,2024-12-21,4745.75,Healthcare,Jackson Group
+U010,2025-02-21,7497.35,Groceries,Leon PLC
+U010,2025-03-17,1502.48,Healthcare,"Sexton, Clements and Jackson"
+U010,2024-10-01,9274.71,Electronics,Thompson-Hall
+U010,2025-01-13,6017.68,Dining,Burnett PLC
+U010,2025-01-16,6118.74,Healthcare,Johnson Inc
+U010,2024-11-06,1949.92,Electronics,Carlson-Romero
+U010,2025-01-18,7220.98,Education,Rhodes-Frost
+U010,2025-02-10,7889.23,Dining,"Garza, Pearson and Simon"
+U010,2025-01-19,1690.82,Travel,"Clark, Hill and Dixon"
+U010,2024-09-25,6858.54,Groceries,Miller-Smith
+U010,2024-09-23,1577.47,Dining,Mullen Group
+U010,2025-01-21,9341.14,Healthcare,"Garcia, Smith and Davis"
+U010,2024-10-21,3324.03,Travel,Benton-Hartman
+U010,2024-11-15,8048.2,Education,Carey-Wagner
+U010,2025-02-20,5129.56,Utilities,Rodriguez and Sons
+U010,2024-11-24,352.5,Travel,"Cunningham, Crawford and Estes"
+U010,2024-10-11,3468.33,Travel,Bailey LLC
+U011,2024-11-11,9536.28,Education,"Berry, Duncan and Walters"
+U011,2025-03-18,7621.36,Travel,"Stevenson, Moran and Ayers"
+U011,2024-10-28,4405.53,Electronics,Best-Thomas
+U011,2025-02-20,2185.49,Travel,Hicks LLC
+U011,2024-12-12,2116.55,Healthcare,"Walsh, Wells and Weeks"
+U011,2024-10-23,4122.82,Electronics,Phillips Ltd
+U011,2024-11-11,7100.98,Dining,Mann-Jones
+U011,2024-10-19,7687.83,Healthcare,Elliott LLC
+U011,2025-02-02,1244.65,Education,Leonard Group
+U011,2025-03-20,9555.61,Dining,"Burton, Anderson and Martinez"
+U011,2024-10-25,4067.0,Entertainment,Stephenson Ltd
+U011,2024-09-28,7004.32,Electronics,"Moore, Fletcher and Anderson"
+U011,2024-10-15,7083.08,Dining,Rice Group
+U011,2024-12-01,446.75,Travel,Rivera-Bennett
+U011,2025-02-25,3305.39,Utilities,"Padilla, Soto and Schmidt"
+U011,2024-10-24,1177.95,Dining,Higgins Group
+U011,2024-10-09,3381.54,Healthcare,Silva-Diaz
+U011,2024-12-23,2431.01,Electronics,"Drake, Mckinney and Frank"
+U011,2024-09-22,2029.9,Education,"Morton, Fowler and Dillon"
+U011,2024-09-22,1346.34,Groceries,"Morris, Brown and Hill"
+U011,2025-02-03,8804.16,Electronics,Taylor-Yang
+U011,2024-10-28,6793.93,Dining,Vazquez LLC
+U011,2024-09-28,5073.02,Dining,"Woods, Reyes and Wall"
+U011,2024-10-27,9588.41,Healthcare,Rogers-Browning
+U011,2024-12-18,6035.12,Education,Waters-Tran
+U011,2025-01-19,3032.8,Entertainment,Howard-Schroeder
+U011,2024-12-27,7886.85,Education,Melendez Ltd
+U011,2024-09-26,8948.98,Healthcare,Frost and Sons
+U011,2024-11-29,6359.99,Groceries,Woodard-Dougherty
+U011,2025-01-03,143.02,Education,Phillips-Meyer
+U011,2025-01-22,6293.06,Education,Mcmahon-Armstrong
+U011,2025-03-06,8904.49,Dining,"Norton, Richardson and Jones"
+U011,2024-11-13,425.95,Dining,Grimes-Elliott
+U011,2025-02-15,5981.08,Entertainment,"Johnson, Wang and Sweeney"
+U011,2024-10-03,1209.9,Education,Sullivan LLC
+U011,2025-01-07,3004.38,Entertainment,Cardenas and Sons
+U011,2024-11-22,6510.73,Groceries,"Strong, Anderson and Rodriguez"
+U011,2025-02-03,6223.72,Travel,"Ponce, Mcdaniel and Hensley"
+U011,2024-10-15,9611.23,Utilities,Clark LLC
+U011,2025-02-13,2150.31,Groceries,Kim-Dorsey
+U011,2024-11-23,4399.92,Dining,Knight-Lynch
+U011,2024-10-15,9165.51,Utilities,Juarez Inc
+U011,2025-03-07,5045.38,Healthcare,"Decker, Mckee and Humphrey"
+U011,2025-03-17,8469.33,Education,"Reyes, Webb and Torres"
+U011,2025-01-10,8890.42,Groceries,"Medina, Williams and Walter"
+U011,2024-11-07,4519.18,Electronics,"Campbell, Davis and Drake"
+U011,2024-12-29,7445.89,Travel,Glover Ltd
+U011,2024-12-10,2814.59,Utilities,Woodard-Martin
+U011,2024-12-13,2829.96,Entertainment,"King, Delacruz and Reynolds"
+U011,2024-12-11,8168.53,Utilities,"Waters, Lopez and Foster"
+U012,2025-03-02,1967.18,Utilities,Williams-Moore
+U012,2024-09-23,1647.39,Entertainment,Mitchell and Sons
+U012,2024-12-25,2310.65,Travel,Pearson-Jimenez
+U012,2024-10-10,8712.35,Groceries,"Williams, Williams and Miller"
+U012,2024-10-11,5671.92,Healthcare,"Berger, Smith and Wade"
+U012,2025-01-14,5519.73,Utilities,Clark and Sons
+U012,2025-02-05,169.91,Entertainment,Marshall-Norman
+U012,2025-02-01,2087.59,Dining,Hoffman-Blake
+U012,2025-03-13,4820.03,Dining,Bryan Group
+U012,2025-02-23,4264.51,Education,Chandler-Rhodes
+U012,2024-09-27,9979.91,Entertainment,"Mccarthy, Meyer and King"
+U012,2024-11-06,2411.8,Utilities,Wood and Sons
+U012,2024-11-16,548.24,Groceries,Hunter-Woodward
+U012,2024-11-15,5093.2,Electronics,Peters-Blackwell
+U012,2024-12-19,2120.28,Healthcare,Brooks-Moore
+U012,2024-11-11,9906.02,Healthcare,Gonzalez Ltd
+U012,2024-11-11,620.25,Healthcare,Boone-White
+U012,2024-10-08,9833.29,Dining,Boyd-Gonzales
+U012,2024-10-20,587.3,Healthcare,Jimenez-Hopkins
+U012,2024-12-12,8027.82,Dining,"Nolan, Keith and Hansen"
+U012,2025-03-18,700.85,Education,"Nelson, Davenport and Wilson"
+U012,2024-11-21,8085.73,Entertainment,"Weber, Tucker and Williams"
+U012,2025-03-21,9576.67,Electronics,Acosta-Hoffman
+U012,2025-02-28,6682.69,Entertainment,Jenkins PLC
+U012,2025-01-18,3025.61,Utilities,Villegas-Morrison
+U012,2025-01-02,8306.08,Healthcare,"Johnson, Vasquez and Kelly"
+U012,2025-02-06,7723.09,Groceries,"Hensley, Barton and Medina"
+U012,2025-02-15,4318.54,Groceries,Smith PLC
+U012,2024-11-07,7975.01,Electronics,"Martinez, Hawkins and Watson"
+U012,2025-02-04,5998.16,Healthcare,"Spears, Taylor and Adams"
+U012,2024-11-20,379.83,Travel,"Mccall, Kaiser and Watts"
+U012,2024-10-23,8288.4,Entertainment,Miller Group
+U012,2024-10-30,1704.15,Travel,Charles-Brady
+U012,2024-10-25,4938.01,Travel,Price-Murphy
+U012,2025-03-21,5626.15,Groceries,"Evans, Garcia and Moore"
+U012,2024-09-27,2146.55,Electronics,Miller-Hodge
+U012,2024-10-08,8915.69,Entertainment,"Williams, Briggs and Morales"
+U012,2024-11-02,9725.98,Travel,"Hernandez, Moore and Willis"
+U012,2025-02-05,1822.04,Education,"Garcia, Anderson and Daniels"
+U012,2024-11-28,4426.54,Groceries,"Scott, Lloyd and Taylor"
+U012,2024-12-15,5298.78,Travel,Martinez PLC
+U012,2024-11-22,3926.38,Dining,"Palmer, Hutchinson and Powell"
+U012,2024-11-30,2613.86,Education,Barker PLC
+U012,2024-11-22,2759.81,Healthcare,"Martin, Cruz and Lam"
+U012,2024-09-22,2296.81,Travel,Parks-Hogan
+U012,2025-03-11,5194.61,Healthcare,Carson PLC
+U012,2024-10-26,6555.45,Education,"Mcbride, Smith and Conley"
+U012,2024-10-28,7562.2,Utilities,Willis-Jones
+U012,2024-12-08,9283.19,Entertainment,Sutton-Allen
+U012,2025-01-23,1876.83,Healthcare,"Boyer, Brown and Johnson"
+U013,2024-12-09,6710.14,Groceries,"Phillips, Wright and White"
+U013,2025-01-18,5767.67,Healthcare,Woodard Group
+U013,2024-11-13,9429.72,Dining,Floyd-Mcbride
+U013,2025-03-16,8957.79,Utilities,Daniels-Davidson
+U013,2025-01-01,9128.5,Groceries,"Mcbride, Evans and Medina"
+U013,2024-10-05,406.74,Healthcare,Cantrell and Sons
+U013,2024-10-05,7181.2,Entertainment,Hale-Clark
+U013,2025-03-15,1753.81,Electronics,Garcia and Sons
+U013,2024-11-30,9100.0,Groceries,Pena-Powell
+U013,2025-03-12,6616.0,Utilities,Lewis and Sons
+U013,2025-02-22,2294.95,Entertainment,"Nguyen, Bush and Webster"
+U013,2025-01-07,8318.22,Healthcare,"Houston, Perez and Wilson"
+U013,2025-01-20,9849.74,Electronics,"Holmes, Myers and Taylor"
+U013,2024-12-06,460.57,Electronics,Scott Inc
+U013,2025-02-14,3924.2,Healthcare,Brown LLC
+U013,2024-12-09,6562.17,Entertainment,Marsh Ltd
+U013,2025-01-10,392.14,Healthcare,Snow-Ward
+U013,2024-09-27,7385.63,Dining,Grant PLC
+U013,2024-12-07,6051.15,Education,"Mclean, Le and Anderson"
+U013,2025-02-19,1676.14,Dining,"Macias, Thomas and Stewart"
+U013,2024-10-03,4380.76,Travel,Smith Group
+U013,2024-11-16,3946.45,Entertainment,French-Butler
+U013,2025-02-24,4757.56,Utilities,Gray and Sons
+U013,2025-01-08,6502.61,Entertainment,Norris-Thomas
+U013,2025-01-01,3445.56,Healthcare,Jordan-Moore
+U013,2025-02-03,9104.35,Groceries,"Bowen, Jones and Powell"
+U013,2024-10-03,3043.8,Healthcare,Ward-Martin
+U013,2024-12-02,1121.3,Electronics,Mckay and Sons
+U013,2024-11-02,2589.43,Groceries,"Brown, Soto and Sanchez"
+U013,2024-11-02,3940.99,Travel,Mosley LLC
+U013,2025-01-12,9331.23,Utilities,Benson Inc
+U013,2024-12-24,5371.82,Education,"Reed, Warner and Rivera"
+U013,2024-10-02,196.83,Groceries,Jones Group
+U013,2025-03-10,4096.24,Utilities,Jones-Wood
+U013,2025-03-13,9631.02,Dining,"Sanchez, Ferguson and Conrad"
+U013,2024-11-09,5364.51,Entertainment,Neal-Rocha
+U013,2025-03-12,9677.51,Healthcare,"Campbell, Nelson and Mays"
+U013,2025-03-03,3895.27,Groceries,Rice Ltd
+U013,2024-10-13,9831.3,Utilities,Malone-Chambers
+U013,2024-11-17,4190.6,Entertainment,Barnes Group
+U013,2024-11-07,5379.31,Utilities,Ford-Compton
+U013,2025-01-18,3393.28,Entertainment,"Townsend, Cruz and Boyd"
+U013,2024-12-14,9586.72,Entertainment,"Gonzalez, Washington and Sanchez"
+U013,2025-03-21,7428.64,Groceries,"Velazquez, Kramer and Wall"
+U013,2025-03-01,3370.89,Entertainment,Lopez-Arroyo
+U013,2024-10-02,2843.28,Utilities,Phillips-Irwin
+U013,2025-02-09,3390.45,Utilities,Cruz and Sons
+U013,2025-01-26,745.59,Electronics,"Branch, Barnett and Gonzalez"
+U013,2025-03-09,5303.76,Healthcare,Hamilton Inc
+U013,2024-12-29,2921.66,Groceries,Wong and Sons
+U014,2024-12-12,8140.04,Education,Taylor and Sons
+U014,2024-10-06,4322.01,Groceries,Mosley-Chapman
+U014,2025-01-25,2612.24,Healthcare,Barr LLC
+U014,2025-01-28,5250.39,Education,"Hudson, Shelton and Mcintosh"
+U014,2024-12-11,9236.31,Dining,Hill and Sons
+U014,2025-01-03,1157.95,Electronics,"Mccormick, Wagner and Brown"
+U014,2024-12-14,5673.69,Utilities,Murray-Morris
+U014,2025-01-23,7707.32,Entertainment,Gilmore-Hardin
+U014,2025-03-10,6828.01,Dining,Garner-Smith
+U014,2025-01-05,5624.58,Groceries,"Ramirez, Barrett and Thomas"
+U014,2024-10-02,8090.6,Electronics,"Bullock, Brown and Day"
+U014,2024-10-11,399.22,Electronics,Perez Group
+U014,2025-01-18,4049.04,Healthcare,Anderson-Barber
+U014,2025-01-30,4588.49,Entertainment,Buck-Jimenez
+U014,2025-03-22,8224.73,Education,"Wilson, Roberson and Li"
+U014,2025-03-15,1497.11,Travel,"Ramos, Frank and Raymond"
+U014,2024-12-30,8397.41,Travel,Moore-Stephens
+U014,2025-01-23,8991.72,Groceries,"Roberts, Roberts and Smith"
+U014,2025-01-23,7380.23,Groceries,Anderson-Rodriguez
+U014,2024-10-19,549.95,Electronics,"Brooks, Woods and Robinson"
+U014,2025-01-28,2995.67,Entertainment,Dougherty-Hickman
+U014,2025-02-18,8194.51,Utilities,Barnes-Solomon
+U014,2025-03-10,2006.86,Travel,Sampson LLC
+U014,2024-10-09,4528.68,Healthcare,"Beasley, Hart and Allen"
+U014,2024-10-27,5936.79,Groceries,Chambers Inc
+U014,2024-11-11,5691.13,Dining,Bass-Wilson
+U014,2024-10-03,8782.82,Utilities,Smith-Mitchell
+U014,2025-01-26,5476.14,Education,Smith PLC
+U014,2024-10-22,9172.86,Utilities,"Liu, Hill and Medina"
+U014,2025-02-24,536.4,Utilities,Ramirez Ltd
+U014,2024-10-19,2765.44,Dining,Hendrix-Erickson
+U014,2025-03-07,1202.18,Utilities,Flowers Ltd
+U014,2025-01-07,8707.32,Groceries,Hall Ltd
+U014,2025-02-27,9119.85,Groceries,"Davis, Griffith and Watkins"
+U014,2025-01-14,2055.63,Travel,Sanchez Ltd
+U014,2024-11-07,4308.26,Entertainment,Thornton-Mitchell
+U014,2024-12-30,3161.22,Healthcare,Vazquez Ltd
+U014,2024-10-31,9510.08,Dining,Kemp-Burnett
+U014,2024-10-27,2888.43,Groceries,Hunt LLC
+U014,2024-10-11,9285.15,Education,White-Santiago
+U014,2025-01-18,239.46,Groceries,"Ball, Kelly and Weber"
+U014,2025-02-13,7100.26,Healthcare,Schroeder-Murray
+U014,2025-03-10,1155.9,Dining,Jimenez PLC
+U014,2024-10-12,4173.43,Healthcare,Bonilla Group
+U014,2024-12-01,7518.01,Entertainment,Glass-Miller
+U014,2025-03-21,2374.02,Groceries,"Clark, Gardner and Flores"
+U014,2024-10-15,222.76,Travel,Patterson LLC
+U014,2024-12-12,9588.71,Electronics,Duncan-Blevins
+U014,2024-12-25,2221.83,Groceries,"Boyd, Evans and Melton"
+U014,2024-11-14,7716.52,Education,Sosa-Fuller
+U015,2024-11-29,5496.24,Healthcare,"Jackson, Sanchez and Figueroa"
+U015,2024-12-04,508.22,Utilities,Cooper and Sons
+U015,2025-01-08,5814.1,Groceries,Charles-Patel
+U015,2024-12-26,5179.59,Utilities,Burton Ltd
+U015,2024-12-28,7306.06,Education,"Sanchez, Reeves and Pollard"
+U015,2025-03-06,7398.68,Dining,"Thomas, Wilson and Williams"
+U015,2024-11-21,5406.18,Utilities,Byrd-Osborne
+U015,2025-01-02,9026.79,Groceries,Jones and Sons
+U015,2024-10-04,8472.52,Dining,Butler Inc
+U015,2024-11-19,6932.68,Dining,Bell Ltd
+U015,2025-03-13,8532.0,Electronics,"Walker, Bailey and Martinez"
+U015,2024-11-04,9495.03,Healthcare,Roberts Ltd
+U015,2024-10-26,2647.44,Travel,Norris-Williams
+U015,2025-02-14,6517.82,Dining,"Wilson, Carter and Watson"
+U015,2024-11-23,1624.31,Groceries,Porter LLC
+U015,2025-03-06,967.96,Utilities,Webb PLC
+U015,2024-12-29,6517.98,Utilities,Vance-Stevenson
+U015,2025-03-21,8869.13,Education,"Greer, Cole and Rangel"
+U015,2024-09-30,4554.81,Electronics,Walker-Nielsen
+U015,2025-03-22,9750.39,Dining,Jackson-Jones
+U015,2024-10-20,6284.04,Healthcare,"Chen, Jones and Cummings"
+U015,2024-11-29,1061.99,Utilities,"Kelly, Vargas and Best"
+U015,2024-10-16,1656.25,Travel,Miller LLC
+U015,2024-11-26,7677.1,Education,Sanchez-Daniels
+U015,2024-10-14,2072.38,Dining,Phillips-Espinoza
+U015,2025-01-07,8886.87,Travel,Contreras-Knight
+U015,2025-02-01,5951.97,Entertainment,Graves Inc
+U015,2025-01-16,8791.11,Utilities,Jacobs LLC
+U015,2025-01-20,3885.44,Education,"Shelton, Long and Smith"
+U015,2024-12-23,6569.85,Dining,Nelson-Davis
+U015,2024-12-09,5461.53,Entertainment,Henderson-Baldwin
+U015,2024-12-26,7519.08,Healthcare,Vaughn-Manning
+U015,2025-03-06,9524.45,Healthcare,Velasquez Ltd
+U015,2025-02-16,2448.59,Entertainment,"Foster, Haney and Dennis"
+U015,2024-11-19,3838.87,Utilities,Torres Group
+U015,2025-03-22,2038.25,Entertainment,"Chandler, Baker and Griffith"
+U015,2024-11-09,4866.01,Dining,Cantu Ltd
+U015,2024-10-27,1564.58,Dining,Mcmillan-Bartlett
+U015,2024-10-08,281.78,Education,Mosley-Richards
+U015,2024-11-20,5666.18,Electronics,"Smith, Hansen and Smith"
+U015,2025-03-12,2011.79,Electronics,"Esparza, Kelly and Ramos"
+U015,2025-03-09,2206.82,Travel,"Spence, Hale and Lopez"
+U015,2025-02-01,6702.57,Groceries,"Hansen, Thompson and Tran"
+U015,2025-01-08,6946.91,Healthcare,Guzman-Ross
+U015,2024-12-10,3572.47,Travel,Jones Group
+U015,2024-11-30,804.06,Dining,"Moore, Rogers and Strong"
+U015,2024-10-15,2633.75,Electronics,"Hancock, Haas and Brown"
+U015,2025-01-02,829.02,Education,Palmer Group
+U015,2025-02-20,2900.15,Electronics,Olsen PLC
+U015,2024-12-10,357.94,Electronics,"Moody, Johnson and Roth"
+U016,2025-01-10,3144.06,Healthcare,"Little, Graham and Benson"
+U016,2024-09-25,8914.75,Groceries,Crane Ltd
+U016,2024-12-08,6717.61,Travel,West-Anderson
+U016,2025-01-22,1761.65,Entertainment,Knight PLC
+U016,2025-02-05,3875.34,Dining,"Smith, Torres and Mcknight"
+U016,2025-01-08,5297.06,Groceries,Lee-Maxwell
+U016,2024-10-01,219.15,Travel,Brown-Collins
+U016,2024-10-30,1046.88,Travel,"Mitchell, Perkins and Brooks"
+U016,2024-11-17,1654.69,Travel,Sandoval Ltd
+U016,2025-03-18,8974.05,Entertainment,Fowler-Miller
+U016,2025-01-12,4515.16,Dining,"Norris, Dillon and Jones"
+U016,2024-11-15,5992.22,Healthcare,House-Johnson
+U016,2024-12-10,7650.73,Education,Singleton-Bell
+U016,2024-11-25,9837.81,Electronics,Tapia and Sons
+U016,2024-10-31,9373.71,Healthcare,"Garcia, Bowman and George"
+U016,2025-01-16,3570.11,Groceries,"Avila, Parker and Nixon"
+U016,2024-12-10,4410.16,Groceries,Clayton-Sanders
+U016,2024-12-12,3998.63,Utilities,Keller-Manning
+U016,2024-09-22,8087.66,Travel,Roach PLC
+U016,2024-10-18,1531.25,Entertainment,Brown and Sons
+U016,2025-03-13,4514.5,Education,King Inc
+U016,2025-01-25,1513.56,Travel,Anderson PLC
+U016,2025-01-13,9036.72,Groceries,"Delgado, Edwards and Davis"
+U016,2025-02-24,7160.41,Travel,"Buckley, Price and Peters"
+U016,2024-12-30,5277.4,Education,Morris-Molina
+U016,2024-12-18,8913.88,Entertainment,"Ho, Carroll and Sharp"
+U016,2025-03-11,3539.51,Dining,Sanders-Harris
+U016,2025-02-05,5817.19,Utilities,"Johnson, Martinez and Mcguire"
+U016,2024-10-29,3531.79,Education,"Gordon, Jackson and Nichols"
+U016,2025-02-10,3040.51,Dining,Ramos-Valentine
+U016,2024-10-02,2942.17,Education,Keller-Morgan
+U016,2024-09-24,4883.91,Utilities,Sanchez LLC
+U016,2024-11-15,992.42,Travel,Hammond and Sons
+U016,2025-02-16,2050.84,Electronics,Webb and Sons
+U016,2025-02-12,1170.44,Entertainment,Osborne and Sons
+U016,2024-10-02,7695.97,Healthcare,Griffin Inc
+U016,2024-11-08,2835.06,Travel,Sanders PLC
+U016,2024-10-16,9670.54,Education,Gutierrez LLC
+U016,2024-12-29,6917.89,Utilities,Charles Group
+U016,2024-09-25,5882.51,Utilities,Schneider-Cruz
+U016,2024-10-30,5617.4,Healthcare,Hall-White
+U016,2025-02-26,8842.78,Healthcare,Crawford Ltd
+U016,2025-02-02,8539.69,Utilities,"Henson, Stanley and Roberson"
+U016,2025-01-30,6620.34,Entertainment,"Zamora, Nguyen and Brewer"
+U016,2024-10-16,5961.2,Travel,Patterson-Turner
+U016,2025-03-07,3430.18,Groceries,"Dunn, Berry and Lawrence"
+U016,2025-02-21,2144.73,Utilities,Anderson Inc
+U016,2024-12-26,627.86,Healthcare,"Cook, Garrett and Johnson"
+U016,2024-09-28,6368.33,Healthcare,Terry Group
+U016,2024-11-09,1704.89,Healthcare,Stevens LLC
+U017,2024-10-02,8511.81,Groceries,Carey-Taylor
+U017,2025-02-19,7455.94,Entertainment,Davidson-West
+U017,2024-12-07,9365.24,Groceries,Myers PLC
+U017,2024-12-05,5180.54,Entertainment,Nelson-Williams
+U017,2025-02-10,4178.63,Dining,Cooper Inc
+U017,2024-09-28,1494.0,Education,Galvan Ltd
+U017,2024-09-24,7425.36,Entertainment,"Wilson, Larsen and Nichols"
+U017,2025-03-17,8671.75,Utilities,"Mcdaniel, Osborne and Allison"
+U017,2025-02-12,3736.9,Entertainment,"Rodriguez, Sanders and Spencer"
+U017,2024-10-03,6015.99,Groceries,Norris-Taylor
+U017,2025-01-30,8726.76,Education,Lloyd-Flores
+U017,2024-09-30,4320.23,Groceries,Taylor LLC
+U017,2024-12-26,6351.06,Education,Perez Inc
+U017,2025-03-14,2900.11,Groceries,"Edwards, Sexton and Mercer"
+U017,2024-10-07,2530.66,Education,Kelly Ltd
+U017,2024-12-21,3077.12,Dining,Sanders-Howell
+U017,2025-02-08,5373.12,Dining,Melendez Group
+U017,2024-10-11,3410.81,Groceries,Allen-Ortiz
+U017,2025-01-09,1025.36,Healthcare,"Bailey, Edwards and Berry"
+U017,2025-03-08,4170.08,Education,Ruiz Group
+U017,2024-12-05,3022.35,Dining,"Duncan, Henderson and Matthews"
+U017,2024-12-04,7183.54,Utilities,Brewer Ltd
+U017,2025-02-23,2637.2,Groceries,Garcia-Nelson
+U017,2025-01-30,5100.69,Utilities,Mata Group
+U017,2025-02-01,1230.5,Travel,Henderson-Baker
+U017,2024-12-16,3918.77,Travel,Duncan-Robinson
+U017,2025-03-02,2886.25,Healthcare,"Sexton, Valdez and Hernandez"
+U017,2024-11-18,904.27,Groceries,Hughes-Cole
+U017,2025-03-15,2665.11,Groceries,Frey Ltd
+U017,2024-12-22,1761.62,Dining,Brown Ltd
+U017,2024-11-15,8682.18,Utilities,"Roy, Reed and Anderson"
+U017,2024-12-13,8868.53,Entertainment,"Torres, Warren and Baker"
+U017,2025-02-02,1768.76,Utilities,Leonard-Ortiz
+U017,2024-12-21,3019.35,Healthcare,Brown and Sons
+U017,2025-02-08,2299.37,Utilities,"Foster, Evans and Wright"
+U017,2024-11-27,4998.35,Entertainment,Morse-Frank
+U017,2024-09-27,9858.83,Groceries,"Martinez, Webster and Dominguez"
+U017,2024-09-25,3038.79,Electronics,Nguyen Ltd
+U017,2024-12-25,732.37,Travel,Moore PLC
+U017,2024-11-22,4175.32,Dining,Williams Inc
+U017,2024-12-04,1583.8,Dining,"Reese, White and Owen"
+U017,2025-03-20,2781.87,Entertainment,Jackson-Marsh
+U017,2024-10-25,2510.89,Groceries,Blevins-Castillo
+U017,2025-03-01,4850.17,Groceries,"Perry, Nichols and Brewer"
+U017,2024-11-21,8733.64,Dining,Smith-Guerrero
+U017,2024-10-31,9846.53,Dining,Perez-Smith
+U017,2024-09-26,7675.52,Groceries,Russell-Moore
+U017,2025-01-04,9632.42,Dining,Turner-Yoder
+U017,2025-02-05,7589.78,Travel,"Mccormick, Jones and Cunningham"
+U017,2025-03-14,4801.78,Groceries,Campbell-Murray
+U018,2024-11-15,1494.11,Groceries,"Wade, Allen and Conway"
+U018,2025-01-08,1373.5,Entertainment,"Williams, Clark and French"
+U018,2025-03-05,7983.9,Utilities,Obrien-Moss
+U018,2024-11-28,7840.61,Groceries,Flores-Austin
+U018,2024-11-23,6906.51,Utilities,Marshall-Kelly
+U018,2024-10-10,4158.25,Groceries,"Pham, Gill and Scott"
+U018,2024-10-24,2119.49,Utilities,Jones Ltd
+U018,2024-10-02,5944.37,Groceries,Taylor-Hunter
+U018,2024-12-14,3415.78,Electronics,"Clarke, Morton and Washington"
+U018,2025-03-13,891.31,Utilities,Williamson-Cooper
+U018,2025-03-10,904.33,Utilities,Walsh-Roberts
+U018,2025-01-24,8799.49,Travel,Mann PLC
+U018,2024-10-07,7939.14,Entertainment,"Choi, Moreno and Barajas"
+U018,2024-12-29,4690.21,Groceries,Fox LLC
+U018,2024-10-30,1025.45,Entertainment,Sanchez-Ballard
+U018,2025-01-21,1840.03,Entertainment,Sims LLC
+U018,2024-12-27,9997.33,Groceries,Dominguez-Jenkins
+U018,2024-11-20,698.09,Electronics,"Gonzales, Johnson and Lambert"
+U018,2024-12-07,7411.15,Travel,Allison Group
+U018,2025-01-11,8342.25,Dining,Patrick LLC
+U018,2024-09-23,6860.06,Groceries,Smith Inc
+U018,2024-12-13,9899.2,Education,"Hansen, Wilson and Molina"
+U018,2024-10-09,8830.51,Electronics,Miller Group
+U018,2025-03-18,9371.22,Electronics,"Young, Anderson and Henry"
+U018,2024-11-14,6017.11,Electronics,Smith Inc
+U018,2025-03-13,1412.05,Dining,"Jackson, Perez and Brown"
+U018,2025-02-07,7745.03,Electronics,Gibson-Aguilar
+U018,2025-01-08,4645.56,Electronics,Lee-Lee
+U018,2024-12-24,7222.4,Groceries,Perry Inc
+U018,2024-12-10,5715.45,Healthcare,"Davis, Taylor and Brown"
+U018,2024-10-11,266.83,Entertainment,Leonard-Oliver
+U018,2024-10-06,1269.57,Healthcare,"Collins, Craig and Martinez"
+U018,2024-11-24,5963.63,Education,Krause Ltd
+U018,2024-10-09,4223.94,Dining,"Robertson, Banks and Wilson"
+U018,2025-01-13,5033.39,Travel,Holmes PLC
+U018,2024-12-18,5682.38,Dining,"Sherman, Wilkerson and Chandler"
+U018,2024-09-24,826.46,Healthcare,Oneill Group
+U018,2024-11-18,1357.24,Entertainment,Washington-Schaefer
+U018,2025-01-24,1094.33,Education,Contreras-Cohen
+U018,2024-11-20,2991.55,Travel,"Jones, Edwards and Gilbert"
+U018,2024-09-29,1997.74,Utilities,"Mendoza, Everett and Black"
+U018,2024-10-30,2752.99,Travel,Ayers Group
+U018,2024-10-18,9809.34,Healthcare,Sanchez-Delgado
+U018,2025-01-28,5517.12,Education,Scott-Montgomery
+U018,2024-10-20,3789.38,Dining,Gould PLC
+U018,2024-12-20,4765.88,Travel,"Noble, Sutton and Adams"
+U018,2025-03-16,7804.04,Travel,Stevens Group
+U018,2024-12-22,3617.96,Healthcare,Roberts Ltd
+U018,2024-11-07,5711.01,Healthcare,Deleon Inc
+U018,2025-02-14,3176.35,Utilities,Ferguson LLC
+U019,2025-02-07,6058.57,Healthcare,Juarez Group
+U019,2025-02-07,6824.46,Travel,Perkins Ltd
+U019,2025-02-19,9251.65,Groceries,"Harrison, Little and Sullivan"
+U019,2025-02-09,7452.24,Travel,"Jacobs, Simpson and Brown"
+U019,2024-10-04,6926.19,Healthcare,"Reynolds, Lewis and Mason"
+U019,2024-11-21,2261.91,Groceries,"Mann, Phillips and Murphy"
+U019,2024-10-09,5067.45,Dining,"Macdonald, Patel and Long"
+U019,2025-02-06,736.44,Healthcare,"Tucker, Shea and Sanford"
+U019,2024-10-26,4256.43,Electronics,Carpenter Group
+U019,2024-10-04,4126.53,Electronics,Ball PLC
+U019,2024-11-30,5901.77,Utilities,Rice-Castro
+U019,2024-10-27,9164.12,Utilities,"Ho, Rose and Hall"
+U019,2025-01-01,2547.73,Entertainment,Griffin LLC
+U019,2024-12-29,2381.06,Travel,Madden-Monroe
+U019,2025-03-09,3852.58,Electronics,"Sanchez, Young and Lynch"
+U019,2024-12-14,1684.44,Entertainment,"Miller, Yu and Nguyen"
+U019,2025-03-11,6882.53,Healthcare,"Rivera, Evans and Flores"
+U019,2024-10-16,3411.24,Education,Stevenson Group
+U019,2024-11-18,6493.25,Groceries,"Chapman, Parker and Levine"
+U019,2025-01-13,3453.41,Groceries,Oneill-Riley
+U019,2025-03-21,6364.8,Healthcare,Wright PLC
+U019,2024-11-04,5572.4,Healthcare,"Wu, Marquez and Goodwin"
+U019,2024-12-27,2928.2,Utilities,"Waters, Mendoza and Martinez"
+U019,2024-12-05,3688.92,Groceries,Wilson-Wallace
+U019,2024-12-01,6909.2,Electronics,"Gonzalez, Garcia and Wilson"
+U019,2024-11-06,4463.03,Dining,"Rice, Chandler and Caldwell"
+U019,2024-12-02,358.85,Groceries,"Little, Gonzalez and Smith"
+U019,2025-01-28,7463.27,Groceries,"Thompson, Browning and Martinez"
+U019,2024-10-30,8262.2,Dining,Taylor-Bush
+U019,2024-10-24,4341.66,Groceries,Phillips-Hudson
+U019,2025-03-11,8638.04,Travel,Joseph-Wright
+U019,2024-10-08,199.58,Utilities,Waller LLC
+U019,2024-09-26,120.59,Education,"Ali, Thomas and Freeman"
+U019,2024-10-20,3032.94,Electronics,Bender-Pineda
+U019,2024-11-07,8150.65,Travel,Woods-Miller
+U019,2025-03-04,4559.15,Entertainment,Gay Group
+U019,2024-10-28,1604.26,Utilities,Lawrence-Boyd
+U019,2024-12-01,1026.02,Healthcare,Moore PLC
+U019,2025-01-07,4873.53,Dining,Jones-Perry
+U019,2024-12-10,9735.82,Electronics,Hill-Jimenez
+U019,2025-01-26,5912.66,Utilities,Garcia LLC
+U019,2025-02-15,8569.63,Travel,Taylor-Erickson
+U019,2024-11-11,9581.47,Healthcare,"Gardner, Martinez and Lee"
+U019,2025-02-19,4447.81,Utilities,"Mendoza, Smith and Pham"
+U019,2024-12-12,9947.84,Travel,"Baker, Williams and Frey"
+U019,2025-02-17,9295.16,Dining,"Lawrence, Walker and Clark"
+U019,2025-01-11,742.41,Entertainment,Mckinney Inc
+U019,2024-11-19,7283.61,Electronics,"Jones, Thornton and Valencia"
+U019,2025-01-05,9430.56,Groceries,Martin-Lewis
+U019,2025-03-03,7756.26,Dining,Brown-Larson
+U020,2025-01-18,1651.44,Education,Moore-Santana
+U020,2025-01-14,9423.35,Education,"Williams, Wade and Crawford"
+U020,2024-11-21,1771.77,Utilities,"Cole, Mueller and Espinoza"
+U020,2025-01-04,2401.4,Groceries,Perry and Sons
+U020,2025-01-15,5521.01,Dining,Turner-Lopez
+U020,2024-10-14,5973.53,Travel,Moon-Velazquez
+U020,2024-11-20,6798.41,Healthcare,"Miller, Pennington and Lopez"
+U020,2024-12-13,4563.88,Healthcare,Armstrong-Jones
+U020,2024-11-21,3973.54,Healthcare,"Baker, Kim and Stone"
+U020,2024-11-28,8372.86,Education,Lopez-Quinn
+U020,2024-12-11,2776.82,Electronics,Hodges PLC
+U020,2024-11-29,4853.93,Groceries,Rodriguez-Olsen
+U020,2024-10-06,5858.3,Dining,Smith LLC
+U020,2025-02-28,1040.81,Healthcare,Lee-Ross
+U020,2024-12-11,7490.21,Utilities,Lee Ltd
+U020,2024-12-19,4069.17,Electronics,"Kaufman, Williams and Robinson"
+U020,2025-03-06,8235.6,Utilities,Smith-Kirk
+U020,2025-01-24,4446.77,Utilities,Mora Ltd
+U020,2025-02-16,7068.55,Electronics,"Jordan, Obrien and Davis"
+U020,2024-12-23,4777.6,Groceries,Bailey Group
+U020,2024-10-23,5884.02,Healthcare,Rogers-Colon
+U020,2025-03-16,3004.7,Dining,"Lee, Harper and Patterson"
+U020,2024-09-21,8026.9,Electronics,"Morales, Dalton and Rodriguez"
+U020,2025-03-07,262.79,Dining,Hughes-Solis
+U020,2024-10-19,2181.93,Education,"Smith, Hickman and Williams"
+U020,2024-11-20,3515.91,Electronics,"Haley, Davidson and Coleman"
+U020,2024-10-20,9843.63,Entertainment,Nichols Inc
+U020,2025-01-26,263.03,Utilities,Jordan Ltd
+U020,2024-12-26,1119.59,Dining,Booker-Price
+U020,2024-11-28,8443.33,Groceries,Moreno-Murphy
+U020,2025-03-10,8656.9,Entertainment,Wilson-Hays
+U020,2024-12-19,2600.49,Travel,Jordan-Williams
+U020,2025-01-14,5927.12,Education,Roberts-Walters
+U020,2025-03-06,103.39,Dining,Ramos Ltd
+U020,2025-02-20,6577.54,Travel,"Pham, Joseph and Cannon"
+U020,2025-03-20,9968.65,Entertainment,Hernandez-Walker
+U020,2025-03-02,7446.97,Electronics,"Ross, Robles and Herrera"
+U020,2024-12-16,2589.86,Electronics,"Olson, Evans and Smith"
+U020,2024-12-28,4954.01,Travel,Kirk Inc
+U020,2025-01-24,3857.58,Entertainment,Miller Group
+U020,2025-03-20,7685.59,Travel,Warner-Reed
+U020,2024-12-14,9237.11,Dining,Floyd Group
+U020,2024-11-28,2212.01,Electronics,Dawson-Hays
+U020,2024-09-29,8076.8,Healthcare,"Ray, Roberts and Harris"
+U020,2025-02-17,1254.15,Healthcare,Stephens Ltd
+U020,2025-01-06,6380.95,Education,Johnson Inc
+U020,2024-10-19,4112.69,Groceries,Duncan Group
+U020,2024-12-24,5355.59,Travel,Lyons Group
+U020,2025-01-13,5909.08,Dining,Tyler-Brooks
+U020,2024-11-18,7293.42,Entertainment,Benson PLC
+U021,2024-12-30,2680.13,Travel,Fields-Evans
+U021,2025-02-03,8475.91,Education,"Stafford, Rangel and Graham"
+U021,2025-03-21,1854.35,Dining,Myers-Delacruz
+U021,2024-10-26,5902.78,Healthcare,"Kirk, Martin and Cantrell"
+U021,2025-01-20,7083.45,Travel,"Johnson, Powers and Bailey"
+U021,2024-12-02,4229.5,Dining,Lowe Ltd
+U021,2024-11-16,3098.41,Utilities,Watson and Sons
+U021,2024-11-12,7290.47,Utilities,"Humphrey, Atkins and Wilson"
+U021,2024-12-31,2733.29,Dining,Gillespie-Ponce
+U021,2024-10-28,7352.25,Healthcare,"Patterson, Carter and Freeman"
+U021,2025-02-27,6050.51,Groceries,"Norman, Johnson and Hughes"
+U021,2025-01-24,3607.41,Utilities,"Schmidt, Richards and Griffin"
+U021,2024-12-25,9632.76,Dining,White Group
+U021,2025-03-21,353.59,Groceries,Rosales and Sons
+U021,2025-03-07,1469.5,Education,"Atkinson, Johnson and Martin"
+U021,2025-03-20,3459.34,Utilities,Taylor-Webb
+U021,2025-02-05,8038.16,Education,Little Inc
+U021,2024-12-11,1268.91,Entertainment,Scott-Brown
+U021,2025-01-09,9678.47,Groceries,"Smith, Adkins and Turner"
+U021,2025-02-20,5506.9,Education,"Garcia, Farrell and Lewis"
+U021,2025-03-15,8106.55,Electronics,Jones LLC
+U021,2024-12-01,6417.8,Utilities,Marks Ltd
+U021,2024-12-31,1527.65,Utilities,Woods-Simpson
+U021,2025-03-03,8543.35,Entertainment,"Yu, Rasmussen and Martin"
+U021,2025-02-01,1422.82,Dining,Crawford-Baker
+U021,2025-03-04,5638.97,Healthcare,"Young, Torres and Thomas"
+U021,2025-03-01,3272.88,Electronics,"Humphrey, White and Brown"
+U021,2024-10-14,827.65,Dining,"Lynch, Alexander and Kerr"
+U021,2024-12-30,913.35,Groceries,Roman and Sons
+U021,2025-02-20,3891.64,Travel,"Johnson, Frank and Edwards"
+U021,2025-02-18,2244.26,Utilities,West-Shaw
+U021,2024-09-22,5153.64,Electronics,Ellis-Kim
+U021,2025-02-01,6614.33,Dining,Butler and Sons
+U021,2025-02-03,5125.25,Education,Townsend LLC
+U021,2025-01-22,5074.96,Education,"Patterson, Huang and Stein"
+U021,2024-11-20,4677.66,Entertainment,"Meza, Gonzalez and Floyd"
+U021,2024-10-09,8013.81,Travel,"Mclaughlin, Dunn and Ibarra"
+U021,2025-02-14,4515.33,Groceries,Hall-Krueger
+U021,2024-12-30,9097.68,Utilities,Baker-Moore
+U021,2025-02-25,1904.24,Education,Anderson-Robertson
+U021,2024-10-15,9894.36,Healthcare,"Park, Chavez and Brown"
+U021,2025-03-04,6757.63,Travel,Wright-White
+U021,2025-03-12,9664.07,Healthcare,"Solomon, Franco and White"
+U021,2024-10-18,1992.24,Education,"Palmer, Chandler and Gordon"
+U021,2025-01-20,6919.67,Education,"Morton, Sampson and Gordon"
+U021,2024-12-20,3956.38,Dining,Zamora PLC
+U021,2024-10-02,8817.14,Dining,"Smith, Jensen and Knight"
+U021,2025-01-29,5820.98,Groceries,Tran LLC
+U021,2024-12-18,402.24,Healthcare,Roth Group
+U021,2024-12-03,2752.05,Groceries,"Peters, Davis and Mason"
+U022,2025-01-27,7883.88,Travel,Morris-Glenn
+U022,2025-02-03,341.67,Entertainment,Anderson-Marks
+U022,2024-11-06,7561.22,Travel,Sanchez Inc
+U022,2025-01-29,179.3,Dining,Larsen and Sons
+U022,2024-12-26,8313.57,Utilities,Pearson-Barton
+U022,2025-02-19,3761.84,Healthcare,"Wilson, Harris and Howard"
+U022,2024-11-03,7321.59,Education,Flores-Hamilton
+U022,2024-11-04,8363.38,Travel,Arnold-Moore
+U022,2024-12-03,2528.22,Travel,"Wright, Vazquez and Walker"
+U022,2025-01-20,7186.92,Dining,Reynolds-Chapman
+U022,2025-01-20,9113.23,Healthcare,Walters-Swanson
+U022,2025-03-16,5261.46,Education,Kelly Group
+U022,2025-01-07,7028.56,Groceries,Santiago-Williams
+U022,2024-11-06,5057.73,Utilities,"Cooper, Jones and Swanson"
+U022,2025-02-25,3249.23,Education,Gross LLC
+U022,2025-01-31,9821.43,Groceries,Carpenter LLC
+U022,2024-11-16,4308.23,Electronics,"Cruz, Lyons and Flynn"
+U022,2024-12-16,3696.21,Utilities,"Browning, Diaz and Henderson"
+U022,2025-02-17,4489.08,Education,Ramirez-Butler
+U022,2024-12-20,4768.1,Entertainment,"Wong, Davis and Leonard"
+U022,2024-09-23,7353.33,Entertainment,Fleming-Brown
+U022,2025-02-13,7214.38,Education,Rodriguez LLC
+U022,2024-11-30,5387.26,Education,"Phillips, Lynn and Obrien"
+U022,2025-03-03,8620.5,Education,"Beasley, Olson and Brown"
+U022,2024-11-03,6948.58,Groceries,Burke-Crosby
+U022,2024-11-18,7603.5,Education,Palmer-Long
+U022,2025-01-13,6612.55,Dining,Turner PLC
+U022,2025-02-01,6353.83,Entertainment,Austin and Sons
+U022,2024-11-05,8950.59,Electronics,Dawson LLC
+U022,2025-01-11,8465.56,Travel,Pearson-Petersen
+U022,2025-01-16,4570.89,Electronics,Porter-Johnson
+U022,2024-11-02,2204.44,Education,Cisneros-Mccoy
+U022,2025-01-13,6074.52,Travel,Thompson LLC
+U022,2025-02-08,4478.42,Groceries,Case LLC
+U022,2025-02-20,3368.92,Healthcare,"Downs, Neal and George"
+U022,2024-09-30,1848.79,Healthcare,Patrick and Sons
+U022,2025-01-04,3500.45,Education,Anderson-Nielsen
+U022,2025-01-06,634.87,Groceries,Bullock-Ewing
+U022,2024-11-24,9745.75,Travel,"Miller, Gibson and Larson"
+U022,2024-10-21,3842.72,Groceries,"Rogers, Downs and Gonzalez"
+U022,2024-12-27,6418.16,Dining,"Eaton, Stewart and Weber"
+U022,2025-01-20,1597.14,Healthcare,Adams-Ortiz
+U022,2025-01-05,8953.43,Entertainment,Bowman PLC
+U022,2024-09-26,2785.89,Groceries,"Mills, Smith and Benton"
+U022,2024-10-31,2681.18,Travel,"Nunez, Moore and Schwartz"
+U022,2024-11-25,2276.73,Groceries,"White, Vaughan and Martinez"
+U022,2024-12-01,8694.93,Travel,Dawson-Montoya
+U022,2025-03-01,2452.33,Entertainment,"Jensen, Jackson and Mckay"
+U022,2025-03-01,354.52,Utilities,Jacobs Inc
+U022,2024-11-25,7419.8,Groceries,"Day, Jones and Brown"
+U023,2024-09-29,6920.02,Travel,Ballard-Logan
+U023,2025-02-16,3765.1,Electronics,"Huffman, Escobar and Brown"
+U023,2025-01-19,2963.69,Healthcare,Thompson Group
+U023,2024-11-05,6941.24,Dining,"Singh, Kelly and Gonzalez"
+U023,2024-12-21,7728.05,Healthcare,Cooper-Ellis
+U023,2025-03-14,6853.91,Dining,Welch Inc
+U023,2025-02-12,1784.95,Dining,Smith-Cannon
+U023,2025-01-02,6195.52,Groceries,"Clark, Weber and Howell"
+U023,2024-10-12,8815.03,Dining,Hammond Inc
+U023,2025-02-07,2138.76,Education,Harris-Benitez
+U023,2025-01-19,1747.21,Travel,"Williams, Gomez and Scott"
+U023,2025-03-15,9720.74,Education,Turner-Bender
+U023,2024-11-12,8377.88,Utilities,Tapia-Nguyen
+U023,2025-01-13,7633.3,Electronics,"Young, Martin and Hill"
+U023,2025-01-24,4058.62,Education,Mccoy LLC
+U023,2024-10-24,4383.51,Healthcare,Russell-Michael
+U023,2024-11-15,1950.79,Utilities,Gray PLC
+U023,2024-10-25,3350.74,Entertainment,"Boyle, Lane and Williams"
+U023,2024-11-20,7619.79,Dining,"Carroll, Lane and Ayala"
+U023,2025-03-14,5974.86,Healthcare,Hebert-Smith
+U023,2025-02-03,5451.97,Healthcare,Oliver-Nolan
+U023,2024-10-29,610.15,Entertainment,"Hood, Pham and Collins"
+U023,2024-12-28,3841.01,Travel,"Poole, Rogers and Andersen"
+U023,2024-09-26,688.42,Education,"Cannon, Fisher and Frank"
+U023,2024-09-26,7040.67,Travel,Ramos-Herrera
+U023,2025-02-03,8527.51,Education,Potts Inc
+U023,2024-10-11,5906.43,Entertainment,Cole Ltd
+U023,2024-12-23,8261.36,Dining,"Kelley, Jackson and Chan"
+U023,2024-12-19,5909.2,Dining,"Harper, Summers and Williams"
+U023,2024-10-17,5579.45,Groceries,Taylor Ltd
+U023,2025-03-10,3319.14,Entertainment,Solomon-Richardson
+U023,2025-02-08,210.36,Education,Wise and Sons
+U023,2024-10-07,6257.06,Travel,"Mann, Smith and Moore"
+U023,2025-02-24,7314.17,Education,Harris-Martin
+U023,2024-12-19,8956.56,Entertainment,Powell-Smith
+U023,2024-12-10,5708.4,Education,"Hartman, Adams and Rosales"
+U023,2024-10-12,9254.61,Groceries,Moore-Pierce
+U023,2025-02-03,7293.56,Utilities,"Chandler, York and Greene"
+U023,2025-02-04,582.32,Education,"Mendez, Wright and Curry"
+U023,2024-12-19,2562.27,Dining,"Bonilla, Anderson and Shannon"
+U023,2025-02-16,7256.89,Electronics,"Johnson, Moore and Hines"
+U023,2024-11-12,5361.52,Dining,Green LLC
+U023,2024-10-02,4045.83,Entertainment,Boone Ltd
+U023,2024-09-23,3829.69,Dining,Rodriguez LLC
+U023,2024-12-05,7522.83,Healthcare,"Gutierrez, Harris and Berry"
+U023,2024-12-25,8025.41,Education,Knight-Smith
+U023,2024-10-14,9952.46,Utilities,"Mccormick, Booth and Foster"
+U023,2024-10-11,3999.57,Travel,"Brooks, Smith and Price"
+U023,2025-01-03,178.35,Education,"Martin, Horton and Noble"
+U023,2025-02-07,6226.53,Utilities,Knight LLC
+U024,2024-11-12,4494.56,Travel,Vega and Sons
+U024,2024-09-26,1427.21,Dining,"Clark, Chapman and Medina"
+U024,2025-02-10,7572.17,Electronics,"Graham, Simpson and Walton"
+U024,2025-03-10,3328.81,Education,George Inc
+U024,2025-03-03,9574.17,Utilities,Kerr Group
+U024,2024-12-13,1876.04,Entertainment,Sparks-Patton
+U024,2025-01-10,3680.3,Dining,"Smith, Spencer and Giles"
+U024,2024-09-29,7293.3,Entertainment,"Foster, Pope and Ward"
+U024,2024-09-29,4206.09,Electronics,Williams-Wade
+U024,2024-11-03,7405.82,Education,"Moore, Perez and Williams"
+U024,2024-10-29,5628.5,Entertainment,Kelly Inc
+U024,2025-03-16,2816.0,Electronics,Henderson PLC
+U024,2025-01-10,2886.28,Groceries,"Snyder, Hart and Johnson"
+U024,2025-02-23,2477.74,Groceries,"Lucero, Craig and Webb"
+U024,2024-10-20,7684.11,Electronics,"Johnson, Smith and King"
+U024,2025-03-10,5213.96,Healthcare,Vasquez-Lee
+U024,2024-11-09,4744.92,Education,Butler-Day
+U024,2024-10-22,7513.08,Electronics,Torres-Hernandez
+U024,2024-10-03,9580.41,Entertainment,Jones PLC
+U024,2024-09-29,4386.16,Education,"Reyes, Farrell and Copeland"
+U024,2024-11-10,439.04,Dining,Rosario-Miller
+U024,2024-10-13,6192.71,Groceries,"Harding, Rodriguez and Henderson"
+U024,2024-09-30,7377.24,Healthcare,Berg PLC
+U024,2025-01-10,6026.02,Education,Santos-Wood
+U024,2025-03-04,8864.08,Dining,"Willis, Matthews and Rios"
+U024,2024-11-25,7360.5,Healthcare,Williams-Smith
+U024,2024-10-10,9360.97,Dining,"Wagner, Mccall and Williams"
+U024,2025-01-11,5437.46,Electronics,"King, Henry and Barber"
+U024,2025-01-02,2788.77,Dining,Johnson Group
+U024,2024-12-28,5083.81,Entertainment,Stone-Barker
+U024,2025-02-01,4744.47,Travel,Fisher-Jones
+U024,2025-03-10,899.51,Education,"Thompson, Jones and Pruitt"
+U024,2024-10-13,3011.18,Groceries,Stewart-Powers
+U024,2024-10-11,8502.72,Travel,"Wagner, Christensen and Garcia"
+U024,2024-10-29,9758.42,Travel,Newton-Chambers
+U024,2024-12-28,2398.51,Electronics,Chen-Bullock
+U024,2025-01-28,6316.29,Utilities,Price-Mcdaniel
+U024,2024-12-29,4742.92,Utilities,Bailey PLC
+U024,2024-12-07,7254.12,Healthcare,"Williams, Ashley and Delacruz"
+U024,2024-10-21,2947.82,Entertainment,"Pratt, Lowery and Morales"
+U024,2024-12-14,2198.54,Travel,Nash Ltd
+U024,2025-01-05,350.67,Dining,Bailey-Franco
+U024,2025-01-13,2487.65,Education,Johnson-Henry
+U024,2025-02-14,4180.16,Utilities,Leonard Inc
+U024,2024-10-18,1996.4,Groceries,Cox Group
+U024,2025-02-16,5365.51,Healthcare,Jackson-Baker
+U024,2024-11-03,9924.32,Travel,Sanders and Sons
+U024,2024-10-26,409.82,Utilities,Snyder-Andrews
+U024,2025-03-08,6385.67,Healthcare,Harmon Inc
+U024,2025-01-05,2135.1,Entertainment,Banks-Roach
+U025,2024-11-17,4679.66,Travel,Adams-Hernandez
+U025,2025-01-14,2901.73,Entertainment,"Durham, Wilson and Rodriguez"
+U025,2024-12-22,3126.15,Entertainment,Black-Reynolds
+U025,2025-01-01,4906.34,Travel,Jackson PLC
+U025,2025-03-12,6031.0,Education,Robbins-Miller
+U025,2024-11-20,1742.92,Education,Kennedy-Miller
+U025,2024-11-13,6414.69,Dining,Anthony Ltd
+U025,2024-11-06,226.45,Healthcare,Alexander Ltd
+U025,2025-01-03,874.93,Groceries,"Mckenzie, Mcbride and Edwards"
+U025,2025-01-17,2900.62,Electronics,Ellis PLC
+U025,2024-11-22,9855.42,Travel,Sanchez PLC
+U025,2025-01-03,901.42,Entertainment,Miller Inc
+U025,2024-11-24,3437.22,Entertainment,"Dougherty, Robinson and Lewis"
+U025,2025-02-18,8296.4,Groceries,"Greene, Burton and Hawkins"
+U025,2025-03-19,8926.02,Travel,Santos PLC
+U025,2025-03-20,6091.37,Groceries,"Lawson, Clarke and Gordon"
+U025,2025-01-10,9357.24,Healthcare,"Cook, Williams and Arnold"
+U025,2024-10-02,4605.83,Groceries,Mcintyre and Sons
+U025,2025-01-14,9335.42,Electronics,Joseph Group
+U025,2024-10-15,3492.97,Healthcare,Murphy PLC
+U025,2025-02-18,4158.6,Electronics,Patel-Frost
+U025,2024-10-01,810.72,Education,Hughes PLC
+U025,2025-01-22,520.84,Healthcare,"Vasquez, Gonzalez and Ochoa"
+U025,2025-01-27,4904.02,Utilities,"Black, Baker and White"
+U025,2024-12-21,1638.26,Dining,"Stevens, Winters and Anderson"
+U025,2024-10-29,543.53,Utilities,Anderson-White
+U025,2024-12-14,8202.96,Entertainment,"Pearson, Young and Perry"
+U025,2024-10-20,891.58,Healthcare,Klein-Sparks
+U025,2025-01-11,9960.93,Electronics,Bryan Group
+U025,2025-03-17,3783.7,Healthcare,Mcguire-Reed
+U025,2025-02-02,381.7,Electronics,Strong Group
+U025,2025-02-26,9175.67,Education,Watkins PLC
+U025,2025-02-28,9341.74,Dining,"Jones, Ruiz and Lara"
+U025,2025-01-02,2510.63,Education,Ho-Patel
+U025,2024-10-09,7046.55,Utilities,"Johnson, Brock and Wheeler"
+U025,2025-03-17,2555.42,Utilities,Clark-Beard
+U025,2024-09-27,6120.94,Healthcare,Gonzalez PLC
+U025,2024-11-27,6146.13,Travel,Campbell-Freeman
+U025,2024-12-09,5950.94,Utilities,Barton LLC
+U025,2024-11-16,1567.52,Dining,"Webb, Carson and Lucero"
+U025,2025-02-18,5492.35,Entertainment,Scott-Baker
+U025,2024-12-10,7964.9,Education,Huffman-Dean
+U025,2024-10-23,6390.68,Electronics,Grant Ltd
+U025,2024-12-10,5253.98,Entertainment,Lopez-Curtis
+U025,2024-10-18,6020.58,Electronics,Castro Ltd
+U025,2025-03-22,2943.16,Electronics,Ward-Haley
+U025,2024-10-27,6981.54,Entertainment,Hammond-Green
+U025,2024-10-01,5349.21,Groceries,Martin Ltd
+U025,2024-10-22,6837.77,Travel,Baker Ltd
+U025,2024-10-20,3392.5,Travel,Nelson Inc
+U026,2025-02-13,916.08,Electronics,Morales-Montes
+U026,2025-02-28,641.61,Dining,Cherry LLC
+U026,2024-11-26,1946.43,Travel,"Bennett, Sparks and Rodriguez"
+U026,2024-12-11,6851.24,Dining,Williams-Sanchez
+U026,2025-03-18,1064.53,Travel,"Lee, Montgomery and Gray"
+U026,2024-10-12,3389.57,Groceries,Miller-Blackwell
+U026,2025-01-21,7573.37,Healthcare,Carey PLC
+U026,2024-09-21,7427.39,Electronics,Mata-Michael
+U026,2024-12-28,4797.03,Travel,Reese PLC
+U026,2024-12-19,3655.06,Healthcare,Solis-Sharp
+U026,2024-11-07,1335.73,Utilities,Cohen-Salinas
+U026,2024-12-27,8013.15,Healthcare,Walker-Vaughn
+U026,2025-02-16,8838.65,Healthcare,Briggs Ltd
+U026,2025-02-07,8239.41,Groceries,"Braun, Brown and Farmer"
+U026,2024-11-20,805.01,Dining,Stewart-Tucker
+U026,2025-02-03,2755.0,Healthcare,Sanders-Mcdaniel
+U026,2024-11-19,9417.94,Healthcare,Patterson Inc
+U026,2025-03-13,2551.68,Electronics,Anderson-Castillo
+U026,2025-03-07,5691.07,Education,"Gonzalez, Rice and Taylor"
+U026,2024-10-19,3379.38,Dining,Carpenter PLC
+U026,2025-01-04,7051.28,Education,Graham-Kim
+U026,2025-01-18,6830.44,Entertainment,Mullins Group
+U026,2025-01-04,6605.32,Education,Mora-Williamson
+U026,2025-01-02,1400.71,Travel,Sheppard-Schultz
+U026,2024-12-28,4323.39,Entertainment,Gray Group
+U026,2024-10-01,8350.37,Travel,Lee-Ortiz
+U026,2024-10-13,7793.4,Groceries,Smith-Ramos
+U026,2024-10-03,9879.84,Entertainment,Manning-Gonzalez
+U026,2024-12-27,2536.07,Utilities,"Bell, Bright and Bryan"
+U026,2024-11-05,8658.88,Healthcare,Chandler Group
+U026,2025-02-26,7289.56,Healthcare,Jacobs-Blanchard
+U026,2024-11-25,323.72,Groceries,Rice LLC
+U026,2024-11-06,9098.2,Education,Manning Inc
+U026,2025-02-06,3606.01,Utilities,Sims-Johnson
+U026,2025-01-19,4775.96,Entertainment,Nguyen-Hunt
+U026,2024-12-05,1977.89,Education,"Brooks, Mcbride and Brown"
+U026,2024-11-26,5566.75,Healthcare,Holmes-Obrien
+U026,2025-01-30,2736.25,Education,Gill Group
+U026,2025-02-27,5268.23,Groceries,Hartman Inc
+U026,2024-12-17,722.25,Utilities,Dominguez-Cummings
+U026,2025-03-10,2937.45,Dining,"Williams, James and Mcmillan"
+U026,2024-12-05,5520.08,Education,"Mills, Brooks and Vargas"
+U026,2025-01-17,5823.28,Utilities,"Kane, Hayes and Smith"
+U026,2024-12-08,719.74,Groceries,"Townsend, Griffin and Diaz"
+U026,2025-03-12,636.65,Healthcare,"Peters, Lee and Walker"
+U026,2024-11-07,5000.31,Groceries,Wood-Carter
+U026,2024-10-22,6286.36,Groceries,"Hanson, Schultz and Miles"
+U026,2025-01-01,6225.16,Entertainment,James LLC
+U026,2024-11-29,4813.46,Education,Moore-Moore
+U026,2024-12-27,9716.26,Electronics,Wilkerson Inc
+U027,2025-03-01,1055.56,Travel,"Riggs, Thompson and Hansen"
+U027,2024-11-17,7654.94,Travel,Alvarado-Russell
+U027,2024-12-24,4059.78,Electronics,"Estes, Reynolds and Luna"
+U027,2024-12-11,8268.19,Groceries,Ryan Ltd
+U027,2024-11-14,8428.56,Entertainment,Lopez Inc
+U027,2024-10-20,9656.42,Utilities,"Abbott, Lawson and Escobar"
+U027,2025-02-07,7230.0,Electronics,"Vega, Gray and Gibbs"
+U027,2024-12-09,7172.06,Healthcare,Sharp Group
+U027,2024-10-16,4810.81,Groceries,Johnson PLC
+U027,2024-10-17,2783.15,Education,Jones-Smith
+U027,2025-03-17,7153.04,Electronics,"Patel, Quinn and Johnson"
+U027,2025-01-15,3937.37,Utilities,White PLC
+U027,2025-02-13,3011.24,Travel,Johnson Ltd
+U027,2025-03-01,2343.63,Education,Thompson-Little
+U027,2024-11-12,5831.56,Utilities,Golden-Leonard
+U027,2024-11-28,2169.59,Groceries,Warren Inc
+U027,2024-12-17,5740.37,Dining,"Weber, Reed and Walsh"
+U027,2025-01-03,706.68,Entertainment,Little PLC
+U027,2025-03-10,9615.19,Education,Marshall and Sons
+U027,2025-03-05,2705.23,Utilities,Medina-Carroll
+U027,2024-11-11,2011.66,Groceries,"Peters, Novak and Carpenter"
+U027,2024-11-12,5278.98,Utilities,Barton Inc
+U027,2024-11-07,3969.35,Utilities,Wells-Richardson
+U027,2025-01-24,1295.04,Utilities,Davis-Fields
+U027,2024-11-04,7617.56,Healthcare,"Moore, Garcia and Walker"
+U027,2024-12-27,7451.44,Groceries,"Howard, Taylor and Joseph"
+U027,2024-12-07,685.33,Education,"Cole, Myers and Torres"
+U027,2024-12-19,812.51,Healthcare,Bell Group
+U027,2024-10-10,9538.41,Education,"Bell, Reyes and Bishop"
+U027,2025-01-28,4122.67,Groceries,"Davis, Long and Gonzales"
+U027,2025-01-28,386.1,Travel,Henderson-Warren
+U027,2024-09-30,538.14,Dining,Morgan Inc
+U027,2024-10-03,8330.2,Utilities,Calhoun-Fowler
+U027,2025-02-13,5377.32,Entertainment,Evans and Sons
+U027,2024-12-04,5255.55,Dining,Powell Group
+U027,2025-03-05,7949.29,Education,Wiley and Sons
+U027,2025-02-06,1862.51,Utilities,"Smith, Williams and Goodman"
+U027,2024-10-15,7981.3,Dining,Fox Inc
+U027,2025-03-12,2640.96,Electronics,Hall-Bauer
+U027,2025-03-16,9767.24,Healthcare,Smith LLC
+U027,2025-03-06,2831.21,Entertainment,Franco-Hawkins
+U027,2024-12-02,9626.35,Healthcare,Boyd-Contreras
+U027,2025-01-22,1293.8,Utilities,Harrington and Sons
+U027,2024-12-26,9657.88,Electronics,Turner PLC
+U027,2024-10-16,9310.34,Entertainment,Anderson Group
+U027,2025-01-16,6627.41,Groceries,Clark Inc
+U027,2024-12-22,4290.01,Electronics,Lindsey-Wallace
+U027,2024-11-06,5911.02,Healthcare,"Smith, Holmes and Long"
+U027,2024-10-16,7983.41,Education,Benson-Reyes
+U027,2024-11-10,6604.44,Travel,Hendricks-Johnson
+U028,2025-02-09,4348.46,Groceries,Brown-Manning
+U028,2025-03-17,9103.54,Utilities,"Brown, Thompson and Wilson"
+U028,2025-03-03,2555.46,Groceries,Carroll-Moore
+U028,2025-01-16,9862.59,Electronics,Stevens-Lyons
+U028,2025-03-14,6145.87,Utilities,Knight-Smith
+U028,2025-03-22,2364.14,Utilities,Snyder-Grant
+U028,2025-02-26,6683.67,Healthcare,"Elliott, Stephens and Shah"
+U028,2024-11-22,9123.22,Education,"Mitchell, Harrison and Hill"
+U028,2024-11-08,4151.39,Utilities,"Chen, Hogan and Dawson"
+U028,2024-12-26,3676.18,Groceries,"Gibson, Perez and Edwards"
+U028,2024-12-05,7582.92,Travel,Kelly Inc
+U028,2025-03-06,5580.34,Dining,Wang-Perez
+U028,2025-03-13,1007.52,Healthcare,Campbell-Sherman
+U028,2025-02-05,5310.7,Entertainment,Warren-Rodriguez
+U028,2025-03-13,9014.64,Entertainment,Robinson-Noble
+U028,2024-09-25,9513.17,Entertainment,Crosby-Mcconnell
+U028,2025-02-04,732.05,Utilities,"Green, Bass and Sanchez"
+U028,2024-12-18,2870.64,Education,"Morgan, Bishop and Thompson"
+U028,2024-12-28,1749.82,Electronics,Herrera and Sons
+U028,2025-01-23,7120.69,Electronics,"Baker, Harrison and Robinson"
+U028,2025-02-27,4912.31,Utilities,Adams Inc
+U028,2024-12-18,519.82,Dining,Richard Group
+U028,2025-01-01,4331.65,Entertainment,"Bennett, Salinas and Combs"
+U028,2025-03-04,5854.8,Groceries,"Hernandez, Williams and Santiago"
+U028,2024-12-31,5927.19,Electronics,"Bender, Nolan and Mooney"
+U028,2025-02-18,646.04,Groceries,"Black, Rice and Combs"
+U028,2025-01-25,4675.49,Utilities,Gonzalez and Sons
+U028,2024-12-23,3502.31,Dining,Hoffman LLC
+U028,2025-01-27,3248.05,Groceries,Brown-Lewis
+U028,2024-10-29,1318.61,Education,Mcconnell Group
+U028,2025-02-22,5552.46,Entertainment,"Chavez, Murray and Woods"
+U028,2025-02-14,6632.14,Utilities,Hopkins-Jones
+U028,2024-11-06,2031.27,Utilities,"White, Sullivan and Brewer"
+U028,2025-03-14,4546.85,Electronics,"Vazquez, Yang and Murphy"
+U028,2025-01-31,9574.78,Utilities,Erickson-Woodard
+U028,2024-10-16,2053.91,Electronics,"Schmidt, Harris and Hall"
+U028,2025-01-24,6757.48,Travel,"Neal, Jones and Contreras"
+U028,2024-12-27,1870.88,Dining,Vance-Garcia
+U028,2025-03-22,4346.45,Utilities,Donaldson Ltd
+U028,2025-02-20,3424.64,Electronics,"Parker, Boyle and Mcgrath"
+U028,2024-09-25,6027.46,Travel,Shepherd-Steele
+U028,2024-09-29,6940.03,Education,Hernandez-Wilson
+U028,2025-01-07,4308.45,Entertainment,Tucker-Smith
+U028,2024-11-27,6628.88,Utilities,"Davis, Rivera and Bowman"
+U028,2024-12-21,4192.76,Entertainment,Osborne Inc
+U028,2024-10-16,1197.52,Groceries,Mcgrath-Kirby
+U028,2025-02-17,5623.25,Travel,Andrews-Morgan
+U028,2025-01-17,770.29,Groceries,Krueger LLC
+U028,2024-11-09,2580.66,Groceries,"Olson, Bennett and Hammond"
+U028,2025-02-06,9616.09,Entertainment,Sanders PLC
+U029,2025-02-09,2270.33,Travel,"Buckley, Henderson and Scott"
+U029,2024-10-25,1696.28,Dining,Martinez-Wells
+U029,2024-11-12,3579.06,Utilities,Robinson-Baxter
+U029,2024-12-21,9834.18,Healthcare,Kline PLC
+U029,2024-09-28,2792.4,Utilities,Barker and Sons
+U029,2025-03-07,9259.44,Dining,Campos-Hill
+U029,2024-11-24,1126.25,Healthcare,Haley-Pierce
+U029,2024-10-05,5298.33,Groceries,"Parker, Martinez and Smith"
+U029,2024-12-20,6062.1,Education,Wright Group
+U029,2024-09-27,3620.0,Dining,Cole PLC
+U029,2024-11-07,4296.02,Utilities,Farmer-Jacobson
+U029,2025-01-03,6576.57,Entertainment,Lee-Miller
+U029,2024-10-17,6163.26,Healthcare,"Miller, May and Davis"
+U029,2025-02-11,8076.72,Entertainment,Bryant Inc
+U029,2025-01-28,4933.11,Education,Wagner-Marshall
+U029,2025-01-11,2559.81,Healthcare,"Dennis, Hernandez and Gray"
+U029,2024-10-16,4155.22,Entertainment,"Molina, Robertson and Meyer"
+U029,2025-01-21,3435.12,Healthcare,"Robinson, Owen and Arroyo"
+U029,2024-12-03,3445.65,Entertainment,"Cook, Gibson and Scott"
+U029,2024-12-13,6533.34,Entertainment,"Kim, Serrano and Hardy"
+U029,2024-11-25,539.79,Electronics,Williamson-Ramirez
+U029,2024-11-12,9563.61,Dining,Mitchell-Welch
+U029,2024-11-12,8983.24,Travel,Boyd PLC
+U029,2024-10-29,2957.2,Healthcare,Walters-Eaton
+U029,2025-02-25,2223.51,Dining,Hill-Vaughn
+U029,2024-10-31,3519.08,Groceries,Green-Williams
+U029,2024-12-13,7596.03,Entertainment,Hunt Ltd
+U029,2025-02-17,2887.18,Groceries,Todd PLC
+U029,2025-03-22,7201.05,Dining,"Everett, Hartman and Rogers"
+U029,2024-10-26,2752.53,Healthcare,Glover Inc
+U029,2025-03-18,5487.27,Electronics,"Boyer, Mcdaniel and Sanchez"
+U029,2024-11-30,7791.48,Utilities,"Wells, Jimenez and Schneider"
+U029,2025-03-13,5947.74,Entertainment,Price-Schultz
+U029,2024-11-20,8424.36,Electronics,"Cook, Miles and Contreras"
+U029,2025-02-24,3736.6,Groceries,"Parker, Howell and Randolph"
+U029,2024-10-18,5366.43,Travel,Scott-Brennan
+U029,2024-10-11,3294.7,Dining,"Irwin, Swanson and Sandoval"
+U029,2024-12-25,2642.13,Education,"Wilcox, Greene and Cunningham"
+U029,2025-03-15,2690.78,Travel,"Schultz, Jenkins and Dickson"
+U029,2024-09-23,3627.68,Groceries,Haynes PLC
+U029,2025-03-21,8221.09,Utilities,Hamilton PLC
+U029,2025-02-28,3514.43,Dining,"Howard, Brown and Long"
+U029,2024-11-03,3936.69,Education,Barnes Inc
+U029,2024-12-19,6238.85,Dining,Fox LLC
+U029,2024-12-25,3799.02,Entertainment,Beck LLC
+U029,2024-11-30,8488.27,Dining,"Smith, Perez and Baker"
+U029,2025-01-14,9623.0,Healthcare,Maxwell and Sons
+U029,2024-11-26,8648.32,Education,Ferguson Group
+U029,2024-11-18,2857.02,Electronics,Murray-Mitchell
+U029,2024-12-25,8440.36,Dining,"Coleman, Parker and Pitts"
+U030,2024-11-02,3407.03,Healthcare,Ashley and Sons
+U030,2025-02-15,114.62,Dining,Newman-Ayala
+U030,2025-03-22,9898.29,Electronics,Mitchell-Brooks
+U030,2024-09-26,2949.48,Travel,Rush-Rivers
+U030,2024-11-24,2364.52,Travel,"Griffith, Gould and Mitchell"
+U030,2024-10-21,3332.0,Travel,Morgan-Duke
+U030,2024-12-06,843.76,Electronics,"Ortiz, Randolph and Murphy"
+U030,2024-10-12,3124.29,Travel,Olson-Wilson
+U030,2024-11-19,1908.68,Utilities,Johnson Inc
+U030,2024-11-21,4205.15,Electronics,Burns and Sons
+U030,2024-10-11,4628.84,Utilities,Rasmussen LLC
+U030,2025-03-18,9418.96,Healthcare,"Burns, Beltran and Carlson"
+U030,2024-10-22,2414.47,Healthcare,Bonilla Inc
+U030,2025-02-09,4965.32,Travel,Eaton-Long
+U030,2025-01-16,5006.76,Travel,Cabrera Inc
+U030,2025-01-30,636.99,Healthcare,Cruz Group
+U030,2024-12-25,3100.9,Groceries,Sullivan PLC
+U030,2024-10-08,6206.04,Travel,"Smith, Mendoza and Morrow"
+U030,2024-12-20,1531.56,Utilities,Johnson-Wong
+U030,2025-03-15,5335.92,Dining,Bell PLC
+U030,2025-03-20,1512.62,Healthcare,Bennett Group
+U030,2025-01-29,7081.3,Electronics,Lawrence Group
+U030,2024-09-24,981.23,Entertainment,Young-Martinez
+U030,2024-12-20,4100.22,Groceries,"Smith, Hodges and Taylor"
+U030,2024-10-14,6058.32,Electronics,Jackson-Cole
+U030,2025-03-16,7965.84,Entertainment,Johnson-Carter
+U030,2024-09-26,6911.93,Utilities,Barnes-Bailey
+U030,2024-12-06,1919.56,Electronics,Phillips-Moore
+U030,2024-10-28,3088.5,Entertainment,Smith and Sons
+U030,2024-11-08,9297.72,Entertainment,"Brown, Chan and Roberts"
+U030,2025-01-06,3100.22,Education,Coleman-Henderson
+U030,2024-12-19,4668.21,Electronics,"Atkins, Day and Austin"
+U030,2025-02-01,8561.49,Dining,Scott PLC
+U030,2024-10-27,3341.23,Electronics,Dominguez-Harrison
+U030,2025-01-16,646.2,Healthcare,Cox Ltd
+U030,2024-12-18,1608.83,Education,Anderson Group
+U030,2024-11-01,7905.7,Utilities,"Curtis, Stone and Jackson"
+U030,2025-02-17,5822.13,Education,Fry-Williams
+U030,2024-12-06,1594.62,Electronics,Taylor-Lyons
+U030,2025-02-06,8663.93,Education,Meyers-Winters
+U030,2025-03-10,3417.84,Utilities,Sullivan-Brown
+U030,2025-03-16,727.84,Travel,Christian-Stevens
+U030,2025-02-20,5665.99,Education,Newman-Chang
+U030,2024-10-19,3774.33,Entertainment,Keller Ltd
+U030,2025-01-17,5755.53,Electronics,Fry Ltd
+U030,2025-01-30,2513.44,Healthcare,"Williams, Savage and Lane"
+U030,2025-03-11,2163.87,Groceries,"Hughes, Jones and Fisher"
+U030,2025-03-13,3278.48,Travel,"King, Jones and Hall"
+U030,2024-11-20,9255.43,Groceries,"Anderson, Smith and Baker"
+U030,2024-11-22,7890.49,Education,"Newton, Macias and Chavez"

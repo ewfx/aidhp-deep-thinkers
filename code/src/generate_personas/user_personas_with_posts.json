@@ -1,0 +1,600 @@
+[
+    {
+        "user_id": "U001",
+        "name": "Leslie Romero",
+        "age": 38,
+        "profession": "engineer",
+        "income": 3000000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Study Abroad",
+            "Quick Gains"
+        ],
+        "email": "hallrobert@gmail.com",
+        "password": "pass5465",
+        "posts": [
+            "Markets are a mess this week. Time to play safe.",
+            "New gym gear arrived \u2014 ready for a fresh fitness journey",
+            "Mutual funds or FDs \u2014 which is safer these days?"
+        ],
+        "transaction_persona": {
+            "client_id": "U001",
+            "spender_type": "General Shopper",
+            "top_spending_category": "Service Stations",
+            "travel_frequency": "Occasional Traveler",
+            "entertainment_lover": true,
+            "tech_enthusiast": false,
+            "subscription_enthusiast": false,
+            "luxury_spender": false,
+            "business_owner": false,
+            "frequent_investor": false,
+            "family_oriented": false,
+            "health_wellness_focused": false,
+            "risk_appetite": "Low"
+        }
+    },
+    {
+        "user_id": "U002",
+        "name": "Timothy Wilson",
+        "age": 40,
+        "profession": "Doctor",
+        "income": 18000000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            " Debt Repayment"
+        ],
+        "email": "katherinevargas@gmail.com",
+        "password": "pass1876",
+        "posts": [
+            "My travel goals are back on track this summer!",
+            "Feeling good about long-term investing strategies",
+            "Just watched a documentary on FIRE movement \u2014 inspiring!"
+        ],
+        "transaction_persona": {
+            "client_id": "U002",
+            "spender_type": "General Shopper",
+            "top_spending_category": "Postal Services - Government Only",
+            "travel_frequency": "Occasional Traveler",
+            "entertainment_lover": false,
+            "tech_enthusiast": false,
+            "subscription_enthusiast": false,
+            "luxury_spender": false,
+            "business_owner": false,
+            "frequent_investor": false,
+            "family_oriented": false,
+            "health_wellness_focused": false,
+            "risk_appetite": "Low"
+        }
+    },
+    {
+        "user_id": "U003",
+        "name": "Monica Maxwell",
+        "age": 59,
+        "profession": "Marketing Manager",
+        "income": 1800000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Wealth Diversification",
+            "Quick Gains"
+        ],
+        "email": "fjohnson@yahoo.com",
+        "password": "pass4176",
+        "posts": [
+            "Mutual funds or FDs \u2014 which is safer these days?",
+            "Can't decide whether to invest in SIPs or mutual funds",
+            "Need better advice on choosing a credit card"
+        ]
+    },
+    {
+        "user_id": "U004",
+        "name": "Amanda Lee",
+        "age": 33,
+        "profession": "Teacher",
+        "income": 1800000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Retirement Planning",
+            "Second Home"
+        ],
+        "email": "juliasanford@gmail.com",
+        "password": "pass8490",
+        "posts": [
+            "My travel goals are back on track this summer!",
+            "Trying to save more for my kid\u2019s education",
+            "Markets are a mess this week. Time to play safe."
+        ]
+    },
+    {
+        "user_id": "U005",
+        "name": "Jonathan Powers",
+        "age": 37,
+        "profession": "Entrepreneur",
+        "income": 2400000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Quick Gains",
+            "Child Education"
+        ],
+        "email": "matthewbeck@yahoo.com",
+        "password": "pass4921",
+        "posts": [
+            "Trying to save more for my kid\u2019s education",
+            "My travel goals are back on track this summer!",
+            "New gym gear arrived \u2014 ready for a fresh fitness journey"
+        ]
+    },
+    {
+        "user_id": "U006",
+        "name": "Timothy Lewis",
+        "age": 47,
+        "profession": "Student",
+        "income": 2400000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Second Home",
+            "Debt Repayment"
+        ],
+        "email": "andrewhoward@gmail.com",
+        "password": "pass2745",
+        "posts": [
+            "Mutual funds or FDs \u2014 which is safer these days?",
+            "Trying to save more for my kid\u2019s education",
+            "Hoping to start investing in ETFs this quarter"
+        ]
+    },
+    {
+        "user_id": "U007",
+        "name": "Stephanie Lee",
+        "age": 47,
+        "profession": "Teacher",
+        "income": 1800000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Child Education",
+            "Second Home"
+        ],
+        "email": "christine42@norman-bates.com",
+        "password": "pass1901",
+        "posts": [
+            "Need better advice on choosing a credit card",
+            "Feeling good about long-term investing strategies",
+            "Thinking about joining a robo-advisory platform"
+        ]
+    },
+    {
+        "user_id": "U008",
+        "name": "Sheri Carson",
+        "age": 53,
+        "profession": "Consultant",
+        "income": 2400000,
+        "financial_goals": [
+            "Second Home",
+            "Retirement Planning"
+        ],
+        "email": "robertstafford@gmail.com",
+        "password": "pass7474",
+        "posts": [
+            "New gym gear arrived \u2014 ready for a fresh fitness journey",
+            "Markets are a mess this week. Time to play safe.",
+            "Just watched a documentary on FIRE movement \u2014 inspiring!"
+        ]
+    },
+    {
+        "user_id": "U009",
+        "name": "Mr. Christopher Mills",
+        "age": 52,
+        "profession": "Banking Professional",
+        "income": 3000000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Quick Gains",
+            "Tax Saving"
+        ],
+        "email": "dpeters@king.com",
+        "password": "pass6181",
+        "posts": [
+            "Considering term insurance plans. Any suggestions?",
+            "Trying to save more for my kid\u2019s education",
+            "Looking to refinance my home loan this year"
+        ]
+    },
+    {
+        "user_id": "U010",
+        "name": "Brandon Gardner",
+        "age": 29,
+        "profession": "Entrepreneur",
+        "income": 600000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Quick Gains",
+            "Retirement Planning"
+        ],
+        "email": "kthomas@martin.info",
+        "password": "pass7930",
+        "posts": [
+            "Just watched a documentary on FIRE movement \u2014 inspiring!",
+            "Markets are a mess this week. Time to play safe.",
+            "Shopping spree was worth every penny! \ud83d\udecd\ufe0f"
+        ]
+    },
+    {
+        "user_id": "U011",
+        "name": "Richard Myers",
+        "age": 57,
+        "profession": "Freelancer",
+        "income": 2400000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Wealth Diversification",
+            "Debt Repayment"
+        ],
+        "email": "thomas15@mcintosh-lewis.com",
+        "password": "pass8133",
+        "posts": [
+            "Just watched a documentary on FIRE movement \u2014 inspiring!",
+            "Thinking about joining a robo-advisory platform",
+            "Markets are a mess this week. Time to play safe."
+        ]
+    },
+    {
+        "user_id": "U012",
+        "name": "Ashley Griffin",
+        "age": 29,
+        "profession": "Banking Professional",
+        "income": 1200000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Study Abroad",
+            "Tax Saving"
+        ],
+        "email": "michael89@landry.com",
+        "password": "pass1531",
+        "posts": [
+            "Feeling good about long-term investing strategies",
+            "New gym gear arrived \u2014 ready for a fresh fitness journey",
+            "Just watched a documentary on FIRE movement \u2014 inspiring!"
+        ]
+    },
+    {
+        "user_id": "U013",
+        "name": "Craig Rowe",
+        "age": 55,
+        "profession": "Banking Professional",
+        "income": 1800000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Wealth Diversification",
+            "Tax Saving"
+        ],
+        "email": "anthony36@kelly.org",
+        "password": "pass8779",
+        "posts": [
+            "Just watched a documentary on FIRE movement \u2014 inspiring!",
+            "Thinking about joining a robo-advisory platform",
+            "Just completed a budgeting course and loved it!"
+        ]
+    },
+    {
+        "user_id": "U014",
+        "name": "Kayla Hughes",
+        "age": 42,
+        "profession": "UX Designer",
+        "income": 2400000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Retirement Planning",
+            "Second Home"
+        ],
+        "email": "ashleymonroe@yahoo.com",
+        "password": "pass1990",
+        "posts": [
+            "Just completed a budgeting course and loved it!",
+            "Brunch with friends and family \u2014 quality weekends \u2764\ufe0f",
+            "Considering term insurance plans. Any suggestions?"
+        ]
+    },
+    {
+        "user_id": "U015",
+        "name": "Randall Quinn",
+        "age": 54,
+        "profession": "Entrepreneur",
+        "income": 600000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Child Education",
+            "Wealth Diversification"
+        ],
+        "email": "lewisjoshua@yahoo.com",
+        "password": "pass3667",
+        "posts": [
+            "Worried about market volatility affecting my crypto investments",
+            "Trying to save more for my kid\u2019s education",
+            "Feeling good about long-term investing strategies"
+        ]
+    },
+    {
+        "user_id": "U016",
+        "name": "Jose Garza",
+        "age": 22,
+        "profession": "Entrepreneur",
+        "income": 1800000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Quick Gains",
+            "Retirement Planning"
+        ],
+        "email": "jeremygilmore@hernandez.org",
+        "password": "pass4720",
+        "posts": [
+            "Just completed a budgeting course and loved it!",
+            "Looking to refinance my home loan this year",
+            "Considering term insurance plans. Any suggestions?"
+        ]
+    },
+    {
+        "user_id": "U017",
+        "name": "James Newton",
+        "age": 33,
+        "profession": "Doctor",
+        "income": 3000000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Quick Gains",
+            "Travel Fund"
+        ],
+        "email": "laurenbrooks@yahoo.com",
+        "password": "pass4320",
+        "posts": [
+            "Thinking about joining a robo-advisory platform",
+            "My travel goals are back on track this summer!",
+            "Considering term insurance plans. Any suggestions?"
+        ]
+    },
+    {
+        "user_id": "U018",
+        "name": "Ronnie Hardy",
+        "age": 44,
+        "profession": "Teacher",
+        "income": 600000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Travel Fund",
+            "Debt Repayment"
+        ],
+        "email": "jeffreysolis@potter.com",
+        "password": "pass9214",
+        "posts": [
+            "Considering term insurance plans. Any suggestions?",
+            "Looking to refinance my home loan this year",
+            "Hoping to start investing in ETFs this quarter"
+        ]
+    },
+    {
+        "user_id": "U019",
+        "name": "Whitney Holloway",
+        "age": 39,
+        "profession": "Software Engineer",
+        "income": 600000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Child Education",
+            "Quick Gains"
+        ],
+        "email": "pattersonsara@wilson-white.info",
+        "password": "pass1003",
+        "posts": [
+            "Feeling good about long-term investing strategies",
+            "New gym gear arrived \u2014 ready for a fresh fitness journey",
+            "Fashion is my therapy. New season, new wardrobe \ud83d\udc57"
+        ]
+    },
+    {
+        "user_id": "U020",
+        "name": "Nicole Taylor",
+        "age": 21,
+        "profession": "Doctor",
+        "income": 600000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Study Abroad",
+            "Retirement Planning"
+        ],
+        "email": "melaniehill@yahoo.com",
+        "password": "pass4754",
+        "posts": [
+            "Worried about market volatility affecting my crypto investments",
+            "Mutual funds or FDs \u2014 which is safer these days?",
+            "Paid off my credit card debt finally!"
+        ]
+    },
+    {
+        "user_id": "U021",
+        "name": "Bryan Barker",
+        "age": 54,
+        "profession": "Teacher",
+        "income": 2400000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Home Loan Repayment",
+            "Quick Gains"
+        ],
+        "email": "michaelthompson@gaines.com",
+        "password": "pass4455",
+        "posts": [
+            "Need better advice on choosing a credit card",
+            "Shopping spree was worth every penny! \ud83d\udecd\ufe0f",
+            "Paid off my credit card debt finally!"
+        ]
+    },
+    {
+        "user_id": "U022",
+        "name": "Patrick Evans",
+        "age": 46,
+        "profession": "Teacher",
+        "income": 4800000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Home Loan Repayment",
+            "Debt Repayment"
+        ],
+        "email": "uthomas@garcia-reyes.com",
+        "password": "pass5419",
+        "posts": [
+            "Looking to refinance my home loan this year",
+            "Mutual funds or FDs \u2014 which is safer these days?",
+            "Shopping spree was worth every penny! \ud83d\udecd\ufe0f"
+        ]
+    },
+    {
+        "user_id": "U023",
+        "name": "Keith Chapman DDS",
+        "age": 25,
+        "profession": "Consultant",
+        "income": 3000000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Quick Gains",
+            "Second Home"
+        ],
+        "email": "browneric@rodriguez.com",
+        "password": "pass7132",
+        "posts": [
+            "Just completed a budgeting course and loved it!",
+            "Mutual funds or FDs \u2014 which is safer these days?",
+            "Looking to refinance my home loan this year"
+        ]
+    },
+    {
+        "user_id": "U024",
+        "name": "Tracy Rodriguez",
+        "age": 60,
+        "profession": "UX Designer",
+        "income": 1800000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Home Loan Repayment",
+            "Travel Fund"
+        ],
+        "email": "watersshane@green.com",
+        "password": "pass4495",
+        "posts": [
+            "Looking to refinance my home loan this year",
+            "Trying to save more for my kid\u2019s education",
+            "Shopping spree was worth every penny! \ud83d\udecd\ufe0f"
+        ]
+    },
+    {
+        "user_id": "U025",
+        "name": "Christine Jones",
+        "age": 31,
+        "profession": "Sales Executive",
+        "income": 3000000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Quick Gains",
+            "Home Loan Repayment"
+        ],
+        "email": "guerreroedgar@hotmail.com",
+        "password": "pass4186",
+        "posts": [
+            "New gym gear arrived \u2014 ready for a fresh fitness journey",
+            "Just completed a budgeting course and loved it!",
+            "Feeling good about long-term investing strategies"
+        ]
+    },
+    {
+        "user_id": "U026",
+        "name": "Theresa Ross",
+        "age": 30,
+        "profession": "UX Designer",
+        "income": 600000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Tax Saving",
+            "Travel Fund"
+        ],
+        "email": "vmiller@hotmail.com",
+        "password": "pass1346",
+        "posts": [
+            "Fashion is my therapy. New season, new wardrobe \ud83d\udc57",
+            "Thinking about joining a robo-advisory platform",
+            "Paid off my credit card debt finally!"
+        ]
+    },
+    {
+        "user_id": "U027",
+        "name": "Karen James",
+        "age": 31,
+        "profession": "Freelancer",
+        "income": 3000000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Retirement Planning",
+            "Second Home"
+        ],
+        "email": "terri99@rice-hall.com",
+        "password": "pass9217",
+        "posts": [
+            "Just completed a budgeting course and loved it!",
+            "Considering term insurance plans. Any suggestions?",
+            "Markets are a mess this week. Time to play safe."
+        ]
+    },
+    {
+        "user_id": "U028",
+        "name": "Kelly Chan",
+        "age": 23,
+        "profession": "Accountant",
+        "income": 1200000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Retirement Planning",
+            "Debt Repayment"
+        ],
+        "email": "harrisjacqueline@gmail.com",
+        "password": "pass8610",
+        "posts": [
+            "Booked a luxury weekend getaway to the mountains \ud83c\udfd4\ufe0f",
+            "Can't decide whether to invest in SIPs or mutual funds",
+            "Markets are a mess this week. Time to play safe."
+        ]
+    },
+    {
+        "user_id": "U029",
+        "name": "Christina Foley",
+        "age": 50,
+        "profession": "Accountant",
+        "income": 600000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Debt Repayment",
+            "Wealth Diversification"
+        ],
+        "email": "michaelyoder@lewis.com",
+        "password": "pass3344",
+        "posts": [
+            "Considering term insurance plans. Any suggestions?",
+            "Just watched a documentary on FIRE movement \u2014 inspiring!",
+            "Feeling good about long-term investing strategies"
+        ]
+    },
+    {
+        "user_id": "U030",
+        "name": "Danielle Dunlap",
+        "age": 24,
+        "profession": "Sales Executive",
+        "income": 2400000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Second Home",
+            "Home Loan Repayment"
+        ],
+        "email": "wellsbrent@nielsen-fields.com",
+        "password": "pass6050",
+        "posts": [
+            "Shopping spree was worth every penny! \ud83d\udecd\ufe0f",
+            "Can't decide whether to invest in SIPs or mutual funds",
+            "New gym gear arrived \u2014 ready for a fresh fitness journey"
+        ]
+    }
+]
