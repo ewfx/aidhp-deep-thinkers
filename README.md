@@ -20,6 +20,7 @@ The Financial Buddy is an AI-powered system that analyzes a user's social media 
 
 ## 🎥 Demo
 📹 Video Demo: (https://drive.google.com/drive/folders/1BWVRTLrlVVyq1oi0AcEGcdFab2eVjNfb?usp=sharing)
+
 🖼️ Screenshots:
 - 📌 Architecture Overview → [Architecture README](artifacts/arch/IntentArchitecture.md)
 - 📊 Model Metrics → [Intent Model Metrics](artifacts/arch/IntentModelMetrics.md)
@@ -106,15 +107,16 @@ streamlit run app.py
 ---
 
 ## 🏗️ Tech Stack
-🔹 **Frontend**: Streamlit for UI & profile editor  
-🔹 **Backend**: Python + LangChain for LLM orchestration  
-🔹 **LLM APIs**: Together.ai (Mistral-7B)  
-🔹 **Sentiment Models**: FinBERT-Tone (finance-specific), RoBERTa (generic fallback)  
-🔹 **Intent Models**: BART / XLM-R for zero-shot baseline, Mistral for few-shot  
-🔹 **Embeddings**: Hugging Face (`all-MiniLM-L6-v2`)  
-🔹 **Vector Search**: Cosine similarity + FAISS (optional)  
-🔹 **Data Processing**: pandas, NumPy  
-🔹 **Data Store**: Local JSON / CSV for user profiles, products, transaction logs
+
+- **Frontend**: Streamlit for UI & profile editor  
+- **Backend**: Python + LangChain for LLM orchestration  
+- **LLM APIs**: Together.ai (Mistral-7B)  
+- **Sentiment Models**: FinBERT-Tone (finance-specific), RoBERTa (generic fallback)  
+- **Intent Models**: BART / XLM-R for zero-shot baseline, Mistral for few-shot  
+- **Embeddings**: Hugging Face (`all-MiniLM-L6-v2`)  
+- **Vector Search**: Cosine similarity + FAISS (optional)  
+- **Data Processing**: pandas, NumPy  
+- **Data Store**: Local JSON / CSV for user profiles, products, transaction logs
 ---
 
 ## 👥 Team
