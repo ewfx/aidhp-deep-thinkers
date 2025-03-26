@@ -55,7 +55,7 @@ TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY")  # Fetch the API key from envir
 #     max_tokens=512
 # )
 llm = ChatOpenAI(
-    openai_api_key="2ac32558c148559eb3bcb8e5a8538207ab3129e1341aedffdbdca198014f3bc8",              # your actual Together API key
+    openai_api_key=TOGETHER_API_KEY,              # your actual Together API key
     openai_api_base="https://api.together.xyz/v1",       # Together.ai's endpoint
     model_name="mistralai/Mistral-7B-Instruct-v0.1",          # Or Mixtral, Zephyr, etc.
     temperature=0.3
