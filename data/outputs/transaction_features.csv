@@ -1,0 +1,31 @@
+,user_id,avg_transaction_amount,top_spend_category,top_spend_merchant,spender_type
+0,U001,5297.5376,Education,Kim-Vega,High
+1,U002,5430.371999999999,Groceries,"Reynolds, Carpenter and Floyd",High
+2,U003,5030.051600000001,Groceries,Li Group,High
+3,U004,4794.9996,Healthcare,Mendez-Silva,Low
+4,U005,5117.7758,Healthcare,"Beard, Kelly and Harper",High
+5,U006,4950.1696,Utilities,King-Ross,Low
+6,U007,4664.2994,Dining,"Kelley, Flores and Pittman",Low
+7,U008,4597.4385999999995,Electronics,Sandoval-Brown,Low
+8,U009,5278.9258,Education,Castaneda LLC,High
+9,U010,5820.3464,Groceries,Johnson Inc,High
+10,U011,5251.6044,Dining,Clark LLC,High
+11,U012,4880.6612,Entertainment,"Mccarthy, Meyer and King",Low
+12,U013,5214.984,Utilities,"Holmes, Myers and Taylor",High
+13,U014,5147.147199999999,Groceries,Duncan-Blevins,High
+14,U015,4920.5946,Dining,Jackson-Jones,Low
+15,U016,4956.346,Healthcare,Tapia and Sons,Low
+16,U017,4853.600399999999,Groceries,"Martinez, Webster and Dominguez",Low
+17,U018,4782.9003999999995,Groceries,Smith Inc,Low
+18,U019,5279.8904,Travel,"Baker, Williams and Frey",High
+19,U020,5076.2936,Entertainment,Hernandez-Walker,High
+20,U021,4994.5334,Education,"Park, Chavez and Brown",Low
+21,U022,5352.9762,Travel,Carpenter LLC,High
+22,U023,5371.9482,Dining,"Mccormick, Booth and Foster",High
+23,U024,4974.6006,Travel,Sanders and Sons,Low
+24,U025,4818.857,Travel,Bryan Group,Low
+25,U026,4835.252,Healthcare,Manning-Gonzalez,Low
+26,U027,5226.816,Utilities,Smith LLC,High
+27,U028,4762.1906,Utilities,Stevens-Lyons,Low
+28,U029,5134.2526,Dining,Kline PLC,High
+29,U030,4293.3324,Electronics,Mitchell-Brooks,Low

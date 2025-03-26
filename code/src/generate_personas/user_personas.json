@@ -1,0 +1,722 @@
+[
+  {
+    "user_id": "U001",
+    "name": "Mitchell Griffin",
+    "age": 31,
+    "profession": "Software Engineer",
+    "income": 1200000,
+    "risk_appetite": "High",
+    "financial_goals": [
+      "Quick Gains",
+      "Study Abroad"
+    ],
+    "transaction_behavior": [
+      "luxury hotel bookings",
+      "business class travel",
+      "utility bill payments"
+    ],
+    "investment_style": "Mutual Funds",
+    "sentiment": "Optimistic",
+    "interests": [
+      "Education",
+      "Investing",
+      "Luxury"
+    ]
+  },
+  {
+    "user_id": "U002",
+    "name": "Rhonda Howard",
+    "age": 28,
+    "profession": "Marketing Manager",
+    "income": 1800000,
+    "risk_appetite": "High",
+    "financial_goals": [
+      "Wealth Diversification",
+      "Tax Saving"
+    ],
+    "transaction_behavior": [
+      "business class travel",
+      "dining out",
+      "edtech payments"
+    ],
+    "investment_style": "Mutual Funds",
+    "sentiment": "Anxious",
+    "interests": [
+      "Personal Finance",
+      "Education",
+      "Fintech"
+    ]
+  },
+  {
+    "user_id": "U003",
+    "name": "Samantha Bruce",
+    "age": 37,
+    "profession": "Banking Professional",
+    "income": 0,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Retirement Planning",
+      "Study Abroad"
+    ],
+    "transaction_behavior": [
+      "EMI payments",
+      "car loan EMI",
+      "dining out"
+    ],
+    "investment_style": "NA",
+    "sentiment": "Overwhelmed",
+    "interests": [
+      "Parenting",
+      "Self-help",
+      "Fintech"
+    ]
+  },
+  {
+    "user_id": "U004",
+    "name": "Brandon Sparks",
+    "age": 26,
+    "profession": "Entrepreneur",
+    "income": 0,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Retirement Planning",
+      "Travel Fund"
+    ],
+    "transaction_behavior": [
+      "online shopping",
+      "food delivery",
+      "luxury hotel bookings"
+    ],
+    "investment_style": "NA",
+    "sentiment": "Curious",
+    "interests": [
+      "Education",
+      "Budgeting",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U005",
+    "name": "Lisa Farmer",
+    "age": 50,
+    "profession": "UX Designer",
+    "income": 600000,
+    "risk_appetite": "Moderate",
+    "financial_goals": [
+      "Child Education",
+      "Wealth Diversification"
+    ],
+    "transaction_behavior": [
+      "business class travel",
+      "utility bill payments",
+      "car loan EMI"
+    ],
+    "investment_style": "FD + PPF",
+    "sentiment": "Overwhelmed",
+    "interests": [
+      "Budgeting",
+      "Self-help",
+      "Parenting"
+    ]
+  },
+  {
+    "user_id": "U006",
+    "name": "Brenda Elliott",
+    "age": 21,
+    "profession": "Teacher",
+    "income": 2400000,
+    "risk_appetite": "High",
+    "financial_goals": [
+      "Debt Repayment",
+      "Travel Fund"
+    ],
+    "transaction_behavior": [
+      "edtech payments",
+      "luxury hotel bookings",
+      "EMI payments"
+    ],
+    "investment_style": "Hedge Funds",
+    "sentiment": "Curious",
+    "interests": [
+      "Real Estate",
+      "Luxury",
+      "Personal Finance"
+    ]
+  },
+  {
+    "user_id": "U007",
+    "name": "Megan Rich MD",
+    "age": 36,
+    "profession": "UX Designer",
+    "income": 2400000,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Child Education",
+      "Wealth Diversification"
+    ],
+    "transaction_behavior": [
+      "dining out",
+      "business class travel",
+      "budget shopping"
+    ],
+    "investment_style": "Stocks",
+    "sentiment": "Curious",
+    "interests": [
+      "Startups",
+      "Self-help",
+      "Parenting"
+    ]
+  },
+  {
+    "user_id": "U008",
+    "name": "Jenny Pacheco",
+    "age": 55,
+    "profession": "Software Engineer",
+    "income": 600000,
+    "risk_appetite": "Moderate",
+    "financial_goals": [
+      "Second Home",
+      "Wealth Diversification"
+    ],
+    "transaction_behavior": [
+      "business class travel",
+      "large investments",
+      "frequent domestic travel"
+    ],
+    "investment_style": "NA",
+    "sentiment": "Curious",
+    "interests": [
+      "Real Estate",
+      "Self-help",
+      "Startups"
+    ]
+  },
+  {
+    "user_id": "U009",
+    "name": "Catherine Johnson",
+    "age": 52,
+    "profession": "Accountant",
+    "income": 600000,
+    "risk_appetite": "Moderate",
+    "financial_goals": [
+      "Travel Fund",
+      "Wealth Diversification"
+    ],
+    "transaction_behavior": [
+      "edtech payments",
+      "dining out",
+      "business class travel"
+    ],
+    "investment_style": "NA",
+    "sentiment": "Optimistic",
+    "interests": [
+      "Fintech",
+      "Luxury",
+      "Education"
+    ]
+  },
+  {
+    "user_id": "U010",
+    "name": "Linda Lowe",
+    "age": 30,
+    "profession": "Marketing Manager",
+    "income": 3000000,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Child Education",
+      "Tax Saving"
+    ],
+    "transaction_behavior": [
+      "online shopping",
+      "edtech payments",
+      "donations"
+    ],
+    "investment_style": "FD + PPF",
+    "sentiment": "Overwhelmed",
+    "interests": [
+      "Education",
+      "Budgeting",
+      "Self-help"
+    ]
+  },
+  {
+    "user_id": "U011",
+    "name": "Susan Hernandez",
+    "age": 25,
+    "profession": "Sales Executive",
+    "income": 2400000,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Second Home",
+      "Child Education"
+    ],
+    "transaction_behavior": [
+      "frequent domestic travel",
+      "budget shopping",
+      "luxury hotel bookings"
+    ],
+    "investment_style": "Stocks",
+    "sentiment": "Optimistic",
+    "interests": [
+      "Personal Finance",
+      "Real Estate",
+      "Self-help"
+    ]
+  },
+  {
+    "user_id": "U012",
+    "name": "David Peterson",
+    "age": 30,
+    "profession": "Banking Professional",
+    "income": 600000,
+    "risk_appetite": "Moderate",
+    "financial_goals": [
+      "Tax Saving",
+      "Wealth Diversification"
+    ],
+    "transaction_behavior": [
+      "dining out",
+      "frequent domestic travel",
+      "online shopping"
+    ],
+    "investment_style": "Hedge Funds",
+    "sentiment": "Anxious",
+    "interests": [
+      "Luxury",
+      "Investing",
+      "Startups"
+    ]
+  },
+  {
+    "user_id": "U013",
+    "name": "Diane Murphy",
+    "age": 24,
+    "profession": "Accountant",
+    "income": 1800000,
+    "risk_appetite": "Moderate",
+    "financial_goals": [
+      "Quick Gains",
+      "Second Home"
+    ],
+    "transaction_behavior": [
+      "utility bill payments",
+      "monthly groceries",
+      "food delivery"
+    ],
+    "investment_style": "Stocks",
+    "sentiment": "Optimistic",
+    "interests": [
+      "Startups",
+      "Luxury",
+      "Budgeting"
+    ]
+  },
+  {
+    "user_id": "U014",
+    "name": "Tyrone Atkinson",
+    "age": 32,
+    "profession": "Consultant",
+    "income": 0,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Quick Gains",
+      "Debt Repayment"
+    ],
+    "transaction_behavior": [
+      "car loan EMI",
+      "food delivery",
+      "edtech payments"
+    ],
+    "investment_style": "NA",
+    "sentiment": "Optimistic",
+    "interests": [
+      "Education",
+      "Travel",
+      "Parenting"
+    ]
+  },
+  {
+    "user_id": "U015",
+    "name": "Vicki Morales",
+    "age": 41,
+    "profession": "Marketing Manager",
+    "income": 3000000,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Quick Gains",
+      "Study Abroad"
+    ],
+    "transaction_behavior": [
+      "online shopping",
+      "utility bill payments",
+      "frequent domestic travel"
+    ],
+    "investment_style": "Hedge Funds",
+    "sentiment": "Overwhelmed",
+    "interests": [
+      "Self-help",
+      "Tech",
+      "Startups"
+    ]
+  },
+  {
+    "user_id": "U016",
+    "name": "Robert Jenkins",
+    "age": 45,
+    "profession": "Consultant",
+    "income": 3000000,
+    "risk_appetite": "High",
+    "financial_goals": [
+      "Child Education",
+      "Study Abroad"
+    ],
+    "transaction_behavior": [
+      "car loan EMI",
+      "luxury hotel bookings",
+      "EMI payments"
+    ],
+    "investment_style": "Hedge Funds",
+    "sentiment": "Anxious",
+    "interests": [
+      "Personal Finance",
+      "Real Estate",
+      "Parenting"
+    ]
+  },
+  {
+    "user_id": "U017",
+    "name": "Joshua Sanchez",
+    "age": 32,
+    "profession": "Software Engineer",
+    "income": 1800000,
+    "risk_appetite": "Moderate",
+    "financial_goals": [
+      "Travel Fund",
+      "Second Home"
+    ],
+    "transaction_behavior": [
+      "budget shopping",
+      "utility bill payments",
+      "frequent international spends"
+    ],
+    "investment_style": "Hedge Funds",
+    "sentiment": "Balanced",
+    "interests": [
+      "Travel",
+      "Parenting",
+      "Fintech"
+    ]
+  },
+  {
+    "user_id": "U018",
+    "name": "Haley Diaz",
+    "age": 33,
+    "profession": "Sales Executive",
+    "income": 1800000,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Travel Fund",
+      "Home Loan Repayment"
+    ],
+    "transaction_behavior": [
+      "food delivery",
+      "luxury hotel bookings",
+      "frequent international spends"
+    ],
+    "investment_style": "Real Estate",
+    "sentiment": "Overwhelmed",
+    "interests": [
+      "Tech",
+      "Travel",
+      "Investing"
+    ]
+  },
+  {
+    "user_id": "U019",
+    "name": "Maxwell Williams",
+    "age": 22,
+    "profession": "Teacher",
+    "income": 4800000,
+    "risk_appetite": "Moderate",
+    "financial_goals": [
+      "Retirement Planning",
+      "Second Home"
+    ],
+    "transaction_behavior": [
+      "dining out",
+      "monthly groceries",
+      "food delivery"
+    ],
+    "investment_style": "Crypto",
+    "sentiment": "Curious",
+    "interests": [
+      "Real Estate",
+      "Investing",
+      "Budgeting"
+    ]
+  },
+  {
+    "user_id": "U020",
+    "name": "Brandi Thomas",
+    "age": 30,
+    "profession": "Doctor",
+    "income": 3000000,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Travel Fund",
+      "Child Education"
+    ],
+    "transaction_behavior": [
+      "donations",
+      "frequent domestic travel",
+      "monthly groceries"
+    ],
+    "investment_style": "NA",
+    "sentiment": "Overwhelmed",
+    "interests": [
+      "Investing",
+      "Budgeting",
+      "Luxury"
+    ]
+  },
+  {
+    "user_id": "U021",
+    "name": "David Stewart",
+    "age": 28,
+    "profession": "UX Designer",
+    "income": 0,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Second Home",
+      "Tax Saving"
+    ],
+    "transaction_behavior": [
+      "donations",
+      "dining out",
+      "monthly groceries"
+    ],
+    "investment_style": "NA",
+    "sentiment": "Overwhelmed",
+    "interests": [
+      "Personal Finance",
+      "Fintech",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U022",
+    "name": "Victor Hensley Jr.",
+    "age": 29,
+    "profession": "Marketing Manager",
+    "income": 4800000,
+    "risk_appetite": "Moderate",
+    "financial_goals": [
+      "Travel Fund",
+      "Home Loan Repayment"
+    ],
+    "transaction_behavior": [
+      "budget shopping",
+      "dining out",
+      "online shopping"
+    ],
+    "investment_style": "Mutual Funds",
+    "sentiment": "Balanced",
+    "interests": [
+      "Travel",
+      "Education",
+      "Startups"
+    ]
+  },
+  {
+    "user_id": "U023",
+    "name": "Shawn Estrada",
+    "age": 59,
+    "profession": "UX Designer",
+    "income": 0,
+    "risk_appetite": "High",
+    "financial_goals": [
+      "Second Home",
+      "Travel Fund"
+    ],
+    "transaction_behavior": [
+      "car loan EMI",
+      "budget shopping",
+      "donations"
+    ],
+    "investment_style": "NA",
+    "sentiment": "Balanced",
+    "interests": [
+      "Self-help",
+      "Investing",
+      "Parenting"
+    ]
+  },
+  {
+    "user_id": "U024",
+    "name": "Theresa Bishop",
+    "age": 30,
+    "profession": "Software Engineer",
+    "income": 0,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Quick Gains",
+      "Second Home"
+    ],
+    "transaction_behavior": [
+      "donations",
+      "EMI payments",
+      "monthly groceries"
+    ],
+    "investment_style": "NA",
+    "sentiment": "Optimistic",
+    "interests": [
+      "Investing",
+      "Startups",
+      "Travel"
+    ]
+  },
+  {
+    "user_id": "U025",
+    "name": "Maria Snyder",
+    "age": 60,
+    "profession": "Marketing Manager",
+    "income": 600000,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Quick Gains",
+      "Retirement Planning"
+    ],
+    "transaction_behavior": [
+      "luxury hotel bookings",
+      "dining out",
+      "frequent domestic travel"
+    ],
+    "investment_style": "Real Estate",
+    "sentiment": "Optimistic",
+    "interests": [
+      "Tech",
+      "Startups",
+      "Luxury"
+    ]
+  },
+  {
+    "user_id": "U026",
+    "name": "Roger James",
+    "age": 39,
+    "profession": "Software Engineer",
+    "income": 3000000,
+    "risk_appetite": "High",
+    "financial_goals": [
+      "Child Education",
+      "Retirement Planning"
+    ],
+    "transaction_behavior": [
+      "frequent domestic travel",
+      "online shopping",
+      "edtech payments"
+    ],
+    "investment_style": "NA",
+    "sentiment": "Curious",
+    "interests": [
+      "Education",
+      "Self-help",
+      "Investing"
+    ]
+  },
+  {
+    "user_id": "U027",
+    "name": "Reginald Johnson",
+    "age": 49,
+    "profession": "Software Engineer",
+    "income": 3000000,
+    "risk_appetite": "Moderate",
+    "financial_goals": [
+      "Debt Repayment",
+      "Wealth Diversification"
+    ],
+    "transaction_behavior": [
+      "luxury hotel bookings",
+      "budget shopping",
+      "large investments"
+    ],
+    "investment_style": "Real Estate",
+    "sentiment": "Balanced",
+    "interests": [
+      "Budgeting",
+      "Tech",
+      "Education"
+    ]
+  },
+  {
+    "user_id": "U028",
+    "name": "Elizabeth Jones",
+    "age": 48,
+    "profession": "Software Engineer",
+    "income": 1800000,
+    "risk_appetite": "Moderate",
+    "financial_goals": [
+      "Retirement Planning",
+      "Study Abroad"
+    ],
+    "transaction_behavior": [
+      "frequent domestic travel",
+      "utility bill payments",
+      "luxury hotel bookings"
+    ],
+    "investment_style": "Mutual Funds",
+    "sentiment": "Balanced",
+    "interests": [
+      "Self-help",
+      "Parenting",
+      "Education"
+    ]
+  },
+  {
+    "user_id": "U029",
+    "name": "Lisa Daniels PhD",
+    "age": 40,
+    "profession": "Doctor",
+    "income": 1800000,
+    "risk_appetite": "Moderate",
+    "financial_goals": [
+      "Quick Gains",
+      "Study Abroad"
+    ],
+    "transaction_behavior": [
+      "monthly groceries",
+      "utility bill payments",
+      "EMI payments"
+    ],
+    "investment_style": "FD + PPF",
+    "sentiment": "Curious",
+    "interests": [
+      "Fintech",
+      "Personal Finance",
+      "Education"
+    ]
+  },
+  {
+    "user_id": "U030",
+    "name": "Jean Perry",
+    "age": 51,
+    "profession": "Sales Executive",
+    "income": 3000000,
+    "risk_appetite": "Low",
+    "financial_goals": [
+      "Travel Fund",
+      "Home Loan Repayment"
+    ],
+    "transaction_behavior": [
+      "business class travel",
+      "monthly groceries",
+      "frequent domestic travel"
+    ],
+    "investment_style": "Crypto",
+    "sentiment": "Optimistic",
+    "interests": [
+      "Luxury",
+      "Travel",
+      "Fintech"
+    ]
+  }
+]

@@ -1,0 +1,782 @@
+[
+    {
+        "user_id": "U001",
+        "name": "Wesley Farmer",
+        "age": 26,
+        "profession": "Consultant",
+        "income": 2400000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Home Loan Repayment",
+            "Study Abroad"
+        ],
+        "transaction_behavior": [
+            "Education",
+            "Kim-Vega",
+            "High"
+        ],
+        "investment_style": "Real Estate",
+        "sentiment": "Anxious",
+        "interests": [
+            "Education",
+            "Investing",
+            "Real Estate"
+        ],
+        "email": "wlong@wu-blanchard.com",
+        "password": "pass5936"
+    },
+    {
+        "user_id": "U002",
+        "name": "Victor Johnson",
+        "age": 34,
+        "profession": "Consultant",
+        "income": 3000000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Child Education",
+            "Home Loan Repayment"
+        ],
+        "transaction_behavior": [
+            "Groceries",
+            "Reynolds, Carpenter and Floyd",
+            "High"
+        ],
+        "investment_style": "Real Estate",
+        "sentiment": "Curious",
+        "interests": [
+            "Fintech",
+            "Tech",
+            "Parenting"
+        ],
+        "email": "tonycasey@hotmail.com",
+        "password": "pass5126"
+    },
+    {
+        "user_id": "U003",
+        "name": "Jerry Robinson DDS",
+        "age": 58,
+        "profession": "Teacher",
+        "income": 3000000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Wealth Diversification",
+            "Home Loan Repayment"
+        ],
+        "transaction_behavior": [
+            "Groceries",
+            "Li Group",
+            "High"
+        ],
+        "investment_style": "Crypto",
+        "sentiment": "Anxious",
+        "interests": [
+            "Personal Finance",
+            "Education",
+            "Investing"
+        ],
+        "email": "stephensonmegan@taylor.net",
+        "password": "pass4023"
+    },
+    {
+        "user_id": "U004",
+        "name": "Michael Peterson",
+        "age": 27,
+        "profession": "Consultant",
+        "income": 1200000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Debt Repayment",
+            "Wealth Diversification"
+        ],
+        "transaction_behavior": [
+            "Healthcare",
+            "Mendez-Silva",
+            "Low"
+        ],
+        "investment_style": "Crypto",
+        "sentiment": "Balanced",
+        "interests": [
+            "Personal Finance",
+            "Fintech",
+            "Self-help"
+        ],
+        "email": "kevinrodriguez@gmail.com",
+        "password": "pass6636"
+    },
+    {
+        "user_id": "U005",
+        "name": "Casey Yang",
+        "age": 38,
+        "profession": "Student",
+        "income": 0,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Study Abroad",
+            "Home Loan Repayment"
+        ],
+        "transaction_behavior": [
+            "Healthcare",
+            "Beard, Kelly and Harper",
+            "High"
+        ],
+        "investment_style": "NA",
+        "sentiment": "Overwhelmed",
+        "interests": [
+            "Education",
+            "Fintech",
+            "Travel"
+        ],
+        "email": "ahatfield@harrington-boyle.com",
+        "password": "pass4901"
+    },
+    {
+        "user_id": "U006",
+        "name": "John Santiago",
+        "age": 49,
+        "profession": "Banking Professional",
+        "income": 1200000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Quick Gains",
+            "Travel Fund"
+        ],
+        "transaction_behavior": [
+            "Utilities",
+            "King-Ross",
+            "Low"
+        ],
+        "investment_style": "Crypto",
+        "sentiment": "Optimistic",
+        "interests": [
+            "Investing",
+            "Parenting",
+            "Startups"
+        ],
+        "email": "noah66@craig.info",
+        "password": "pass8201"
+    },
+    {
+        "user_id": "U007",
+        "name": "Lawrence Smith",
+        "age": 58,
+        "profession": "Doctor",
+        "income": 1800000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Wealth Diversification",
+            "Study Abroad"
+        ],
+        "transaction_behavior": [
+            "Dining",
+            "Kelley, Flores and Pittman",
+            "Low"
+        ],
+        "investment_style": "Real Estate",
+        "sentiment": "Optimistic",
+        "interests": [
+            "Self-help",
+            "Education",
+            "Travel"
+        ],
+        "email": "nunezcheyenne@hotmail.com",
+        "password": "pass5172"
+    },
+    {
+        "user_id": "U008",
+        "name": "Heather Castillo",
+        "age": 40,
+        "profession": "Software Engineer",
+        "income": 0,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Home Loan Repayment",
+            "Study Abroad"
+        ],
+        "transaction_behavior": [
+            "Electronics",
+            "Sandoval-Brown",
+            "Low"
+        ],
+        "investment_style": "NA",
+        "sentiment": "Balanced",
+        "interests": [
+            "Tech",
+            "Travel",
+            "Budgeting"
+        ],
+        "email": "nicoleguzman@fuller-hernandez.com",
+        "password": "pass2773"
+    },
+    {
+        "user_id": "U009",
+        "name": "Brent Peterson",
+        "age": 23,
+        "profession": "Student",
+        "income": 1200000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Home Loan Repayment",
+            "Quick Gains"
+        ],
+        "transaction_behavior": [
+            "Education",
+            "Castaneda LLC",
+            "High"
+        ],
+        "investment_style": "FD + PPF",
+        "sentiment": "Curious",
+        "interests": [
+            "Investing",
+            "Startups",
+            "Luxury"
+        ],
+        "email": "lindsay36@hotmail.com",
+        "password": "pass9256"
+    },
+    {
+        "user_id": "U010",
+        "name": "Roberto Harrison",
+        "age": 50,
+        "profession": "Doctor",
+        "income": 1800000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Travel Fund",
+            "Study Abroad"
+        ],
+        "transaction_behavior": [
+            "Groceries",
+            "Johnson Inc",
+            "High"
+        ],
+        "investment_style": "Crypto",
+        "sentiment": "Anxious",
+        "interests": [
+            "Personal Finance",
+            "Fintech",
+            "Tech"
+        ],
+        "email": "lowegary@hotmail.com",
+        "password": "pass1162"
+    },
+    {
+        "user_id": "U011",
+        "name": "Timothy Garcia",
+        "age": 41,
+        "profession": "Consultant",
+        "income": 1800000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Quick Gains",
+            "Debt Repayment"
+        ],
+        "transaction_behavior": [
+            "Dining",
+            "Clark LLC",
+            "High"
+        ],
+        "investment_style": "Stocks",
+        "sentiment": "Optimistic",
+        "interests": [
+            "Personal Finance",
+            "Startups",
+            "Tech"
+        ],
+        "email": "fostercheryl@gmail.com",
+        "password": "pass6346"
+    },
+    {
+        "user_id": "U012",
+        "name": "Karen Marshall",
+        "age": 26,
+        "profession": "Student",
+        "income": 600000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Retirement Planning",
+            "Study Abroad"
+        ],
+        "transaction_behavior": [
+            "Entertainment",
+            "Mccarthy, Meyer and King",
+            "Low"
+        ],
+        "investment_style": "Hedge Funds",
+        "sentiment": "Anxious",
+        "interests": [
+            "Real Estate",
+            "Travel",
+            "Tech"
+        ],
+        "email": "xrodriguez@hodges.org",
+        "password": "pass7677"
+    },
+    {
+        "user_id": "U013",
+        "name": "Shannon Mathews",
+        "age": 20,
+        "profession": "Entrepreneur",
+        "income": 600000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Study Abroad",
+            "Quick Gains"
+        ],
+        "transaction_behavior": [
+            "Utilities",
+            "Holmes, Myers and Taylor",
+            "High"
+        ],
+        "investment_style": "Hedge Funds",
+        "sentiment": "Anxious",
+        "interests": [
+            "Tech",
+            "Fintech",
+            "Budgeting"
+        ],
+        "email": "daniel52@gmail.com",
+        "password": "pass3272"
+    },
+    {
+        "user_id": "U014",
+        "name": "Christopher Holder",
+        "age": 33,
+        "profession": "Banking Professional",
+        "income": 1800000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Home Loan Repayment",
+            "Debt Repayment"
+        ],
+        "transaction_behavior": [
+            "Groceries",
+            "Duncan-Blevins",
+            "High"
+        ],
+        "investment_style": "NA",
+        "sentiment": "Optimistic",
+        "interests": [
+            "Self-help",
+            "Tech",
+            "Education"
+        ],
+        "email": "jchavez@gmail.com",
+        "password": "pass8425"
+    },
+    {
+        "user_id": "U015",
+        "name": "Michael Cook",
+        "age": 32,
+        "profession": "Student",
+        "income": 1200000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Study Abroad",
+            "Debt Repayment"
+        ],
+        "transaction_behavior": [
+            "Dining",
+            "Jackson-Jones",
+            "Low"
+        ],
+        "investment_style": "Crypto",
+        "sentiment": "Optimistic",
+        "interests": [
+            "Travel",
+            "Fintech",
+            "Investing"
+        ],
+        "email": "qmartin@baldwin.com",
+        "password": "pass4117"
+    },
+    {
+        "user_id": "U016",
+        "name": "Kathy Mendoza",
+        "age": 44,
+        "profession": "Marketing Manager",
+        "income": 1800000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Travel Fund",
+            "Wealth Diversification"
+        ],
+        "transaction_behavior": [
+            "Healthcare",
+            "Tapia and Sons",
+            "Low"
+        ],
+        "investment_style": "Crypto",
+        "sentiment": "Optimistic",
+        "interests": [
+            "Startups",
+            "Budgeting",
+            "Education"
+        ],
+        "email": "brownregina@yahoo.com",
+        "password": "pass8204"
+    },
+    {
+        "user_id": "U017",
+        "name": "Brian Carroll",
+        "age": 25,
+        "profession": "Accountant",
+        "income": 4800000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Home Loan Repayment",
+            "Tax Saving"
+        ],
+        "transaction_behavior": [
+            "Groceries",
+            "Martinez, Webster and Dominguez",
+            "Low"
+        ],
+        "investment_style": "Hedge Funds",
+        "sentiment": "Overwhelmed",
+        "interests": [
+            "Luxury",
+            "Personal Finance",
+            "Education"
+        ],
+        "email": "kimharris@riley-martinez.net",
+        "password": "pass9929"
+    },
+    {
+        "user_id": "U018",
+        "name": "Ryan Warner",
+        "age": 32,
+        "profession": "Software Engineer",
+        "income": 600000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Retirement Planning",
+            "Debt Repayment"
+        ],
+        "transaction_behavior": [
+            "Groceries",
+            "Smith Inc",
+            "Low"
+        ],
+        "investment_style": "Hedge Funds",
+        "sentiment": "Overwhelmed",
+        "interests": [
+            "Tech",
+            "Budgeting",
+            "Fintech"
+        ],
+        "email": "vmora@yahoo.com",
+        "password": "pass4533"
+    },
+    {
+        "user_id": "U019",
+        "name": "Jessica Young",
+        "age": 50,
+        "profession": "Accountant",
+        "income": 0,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Home Loan Repayment",
+            "Wealth Diversification"
+        ],
+        "transaction_behavior": [
+            "Travel",
+            "Baker, Williams and Frey",
+            "High"
+        ],
+        "investment_style": "NA",
+        "sentiment": "Overwhelmed",
+        "interests": [
+            "Luxury",
+            "Investing",
+            "Personal Finance"
+        ],
+        "email": "samantha36@lee.com",
+        "password": "pass4382"
+    },
+    {
+        "user_id": "U020",
+        "name": "Andrew Williams",
+        "age": 41,
+        "profession": "Accountant",
+        "income": 1200000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Debt Repayment",
+            "Quick Gains"
+        ],
+        "transaction_behavior": [
+            "Entertainment",
+            "Hernandez-Walker",
+            "High"
+        ],
+        "investment_style": "Real Estate",
+        "sentiment": "Optimistic",
+        "interests": [
+            "Personal Finance",
+            "Budgeting",
+            "Investing"
+        ],
+        "email": "brittany91@burgess.com",
+        "password": "pass3635"
+    },
+    {
+        "user_id": "U021",
+        "name": "Derek Russell",
+        "age": 22,
+        "profession": "Banking Professional",
+        "income": 0,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Second Home",
+            "Wealth Diversification"
+        ],
+        "transaction_behavior": [
+            "Education",
+            "Park, Chavez and Brown",
+            "Low"
+        ],
+        "investment_style": "NA",
+        "sentiment": "Optimistic",
+        "interests": [
+            "Investing",
+            "Self-help",
+            "Real Estate"
+        ],
+        "email": "michael73@orr.biz",
+        "password": "pass4345"
+    },
+    {
+        "user_id": "U022",
+        "name": "Wayne Williams",
+        "age": 31,
+        "profession": "Consultant",
+        "income": 0,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Study Abroad",
+            "Debt Repayment"
+        ],
+        "transaction_behavior": [
+            "Travel",
+            "Carpenter LLC",
+            "High"
+        ],
+        "investment_style": "NA",
+        "sentiment": "Curious",
+        "interests": [
+            "Travel",
+            "Parenting",
+            "Investing"
+        ],
+        "email": "tamaragraham@gmail.com",
+        "password": "pass5739"
+    },
+    {
+        "user_id": "U023",
+        "name": "Thomas Hill",
+        "age": 27,
+        "profession": "Accountant",
+        "income": 600000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Study Abroad",
+            "Debt Repayment"
+        ],
+        "transaction_behavior": [
+            "Dining",
+            "Mccormick, Booth and Foster",
+            "High"
+        ],
+        "investment_style": "Stocks",
+        "sentiment": "Optimistic",
+        "interests": [
+            "Budgeting",
+            "Luxury",
+            "Self-help"
+        ],
+        "email": "monica01@palmer-bennett.biz",
+        "password": "pass6971"
+    },
+    {
+        "user_id": "U024",
+        "name": "Justin Hodge",
+        "age": 50,
+        "profession": "Teacher",
+        "income": 600000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Tax Saving",
+            "Travel Fund"
+        ],
+        "transaction_behavior": [
+            "Travel",
+            "Sanders and Sons",
+            "Low"
+        ],
+        "investment_style": "Hedge Funds",
+        "sentiment": "Overwhelmed",
+        "interests": [
+            "Personal Finance",
+            "Investing",
+            "Travel"
+        ],
+        "email": "jenkinsbrenda@bryant-barajas.biz",
+        "password": "pass7790"
+    },
+    {
+        "user_id": "U025",
+        "name": "Alyssa Jennings",
+        "age": 48,
+        "profession": "Freelancer",
+        "income": 600000,
+        "risk_appetite": "Moderate",
+        "financial_goals": [
+            "Tax Saving",
+            "Debt Repayment"
+        ],
+        "transaction_behavior": [
+            "Travel",
+            "Bryan Group",
+            "Low"
+        ],
+        "investment_style": "Crypto",
+        "sentiment": "Overwhelmed",
+        "interests": [
+            "Tech",
+            "Travel",
+            "Self-help"
+        ],
+        "email": "prodriguez@yahoo.com",
+        "password": "pass4167"
+    },
+    {
+        "user_id": "U026",
+        "name": "Keith Smith",
+        "age": 40,
+        "profession": "Marketing Manager",
+        "income": 1200000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Retirement Planning",
+            "Quick Gains"
+        ],
+        "transaction_behavior": [
+            "Healthcare",
+            "Manning-Gonzalez",
+            "Low"
+        ],
+        "investment_style": "NA",
+        "sentiment": "Overwhelmed",
+        "interests": [
+            "Fintech",
+            "Luxury",
+            "Real Estate"
+        ],
+        "email": "dmaddox@hotmail.com",
+        "password": "pass5839"
+    },
+    {
+        "user_id": "U027",
+        "name": "Roy Peterson",
+        "age": 56,
+        "profession": "Student",
+        "income": 1800000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Tax Saving",
+            "Second Home"
+        ],
+        "transaction_behavior": [
+            "Utilities",
+            "Smith LLC",
+            "High"
+        ],
+        "investment_style": "Stocks",
+        "sentiment": "Balanced",
+        "interests": [
+            "Fintech",
+            "Luxury",
+            "Real Estate"
+        ],
+        "email": "cameron14@stanley-jones.com",
+        "password": "pass2276"
+    },
+    {
+        "user_id": "U028",
+        "name": "Robert King",
+        "age": 58,
+        "profession": "Banking Professional",
+        "income": 1200000,
+        "risk_appetite": "High",
+        "financial_goals": [
+            "Tax Saving",
+            "Retirement Planning"
+        ],
+        "transaction_behavior": [
+            "Utilities",
+            "Stevens-Lyons",
+            "Low"
+        ],
+        "investment_style": "Real Estate",
+        "sentiment": "Anxious",
+        "interests": [
+            "Education",
+            "Startups",
+            "Travel"
+        ],
+        "email": "brownrobin@harvey.com",
+        "password": "pass3890"
+    },
+    {
+        "user_id": "U029",
+        "name": "Laura Trujillo",
+        "age": 34,
+        "profession": "Marketing Manager",
+        "income": 600000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Home Loan Repayment",
+            "Tax Saving"
+        ],
+        "transaction_behavior": [
+            "Dining",
+            "Kline PLC",
+            "High"
+        ],
+        "investment_style": "Stocks",
+        "sentiment": "Optimistic",
+        "interests": [
+            "Investing",
+            "Fintech",
+            "Parenting"
+        ],
+        "email": "jefferycook@evans.net",
+        "password": "pass7657"
+    },
+    {
+        "user_id": "U030",
+        "name": "Lisa Reeves",
+        "age": 44,
+        "profession": "Marketing Manager",
+        "income": 600000,
+        "risk_appetite": "Low",
+        "financial_goals": [
+            "Study Abroad",
+            "Child Education"
+        ],
+        "transaction_behavior": [
+            "Electronics",
+            "Mitchell-Brooks",
+            "Low"
+        ],
+        "investment_style": "Stocks",
+        "sentiment": "Anxious",
+        "interests": [
+            "Education",
+            "Investing",
+            "Tech"
+        ],
+        "email": "hilltheresa@sanchez-lamb.com",
+        "password": "pass4749"
+    }
+]
