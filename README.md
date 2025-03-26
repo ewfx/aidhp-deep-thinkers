@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Financial AI Buddy
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,9 +14,7 @@
 ---
 
 ## 🎯 Introduction
-This project is a Streamlit-based AI-powered customer recommendation engine that analyzes transaction history, social media activity, and demographic details to generate personalized recommendations using Hugging Face Mistral-7B and OpenAI GPT-3.5.
-
-
+This project is a Streamlit-based AI-powered customer recommendation engine that analyzes transaction history, social media activity, and demographic details to generate personalized recommendations.
 
 ## 🎥 Demo 
 📹 [Video Demo](https://drive.google.com/drive/folders/1BWVRTLrlVVyq1oi0AcEGcdFab2eVjNfb?usp=sharing)
@@ -32,6 +30,9 @@ Our application addresses the need for a *Generative AI-driven solution* aimed a
 - *Comparision*: Comparable Embedded, Logic and GenAI based recommendations.
 - *Editable Personas*: Users can update their personas and receive refreshed, personalized recommendations.
 - *Guest Access*: New users can try out features without registering by providing preferences to receive instant recommendations.
+
+## 🛠️ How We Built It
+- 
 
 ## 🚧 Challenges We Faced During Development
 1️⃣ Choosing the Right GenAI Model
